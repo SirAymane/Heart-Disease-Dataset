@@ -1,0 +1,1026 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+52,1 - Hombre,0 - Angina típica,125,212,0 - No,1 - anormalidad de onda ST-T,168,0 - No,1.0,2 - Descendente,2,3 - Reversible,0 - Sano
+53,1 - Hombre,0 - Angina típica,140,203,1 - Sí,0 - Normal,155,1 - Sí,3.1,0 - Ascendente,0,3 - Reversible,0 - Sano
+70,1 - Hombre,0 - Angina típica,145,174,0 - No,1 - anormalidad de onda ST-T,125,1 - Sí,2.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+61,1 - Hombre,0 - Angina típica,148,203,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+62,0 - Mujer,0 - Angina típica,138,294,1 - Sí,1 - anormalidad de onda ST-T,106,0 - No,1.9,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+58,0 - Mujer,0 - Angina típica,100,248,0 - No,0 - Normal,122,0 - No,1.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,114,318,0 - No,2 - hipertrofia ventricular probable o definitiva,140,0 - No,4.4,0 - Ascendente,3,1 - Normal,0 - Sano
+55,1 - Hombre,0 - Angina típica,160,289,0 - No,0 - Normal,145,1 - Sí,0.8,1 - Estanco,1,3 - Reversible,0 - Sano
+46,1 - Hombre,0 - Angina típica,120,249,0 - No,0 - Normal,144,0 - No,0.8,2 - Descendente,0,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,122,286,0 - No,0 - Normal,116,1 - Sí,3.2,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+71,0 - Mujer,0 - Angina típica,112,149,0 - No,1 - anormalidad de onda ST-T,125,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+43,0 - Mujer,0 - Angina típica,132,341,1 - Sí,0 - Normal,136,1 - Sí,3.0,1 - Estanco,0,3 - Reversible,0 - Sano
+34,0 - Mujer,1 - Angina atípica,118,210,0 - No,1 - anormalidad de onda ST-T,192,0 - No,0.7,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,0 - Angina típica,140,298,0 - No,1 - anormalidad de onda ST-T,122,1 - Sí,4.2,1 - Estanco,3,3 - Reversible,0 - Sano
+52,1 - Hombre,0 - Angina típica,128,204,1 - Sí,1 - anormalidad de onda ST-T,156,1 - Sí,1.0,1 - Estanco,0,0,0 - Sano
+34,0 - Mujer,1 - Angina atípica,118,210,0 - No,1 - anormalidad de onda ST-T,192,0 - No,0.7,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+51,0 - Mujer,2 - Dolor torácico no anginoso,140,308,0 - No,0 - Normal,142,0 - No,1.5,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,0 - Angina típica,124,266,0 - No,0 - Normal,109,1 - Sí,2.2,1 - Estanco,1,3 - Reversible,0 - Sano
+50,0 - Mujer,1 - Angina atípica,120,244,0 - No,1 - anormalidad de onda ST-T,162,0 - No,1.1,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,2 - Dolor torácico no anginoso,140,211,1 - Sí,0 - Normal,165,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,2 - Dolor torácico no anginoso,140,185,0 - No,0 - Normal,155,0 - No,3.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+67,0 - Mujer,0 - Angina típica,106,223,0 - No,1 - anormalidad de onda ST-T,142,0 - No,0.3,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+45,1 - Hombre,0 - Angina típica,104,208,0 - No,0 - Normal,148,1 - Sí,3.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+63,0 - Mujer,2 - Dolor torácico no anginoso,135,252,0 - No,0 - Normal,172,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+42,0 - Mujer,2 - Dolor torácico no anginoso,120,209,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+61,0 - Mujer,0 - Angina típica,145,307,0 - No,0 - Normal,146,1 - Sí,1.0,1 - Estanco,0,3 - Reversible,0 - Sano
+44,1 - Hombre,2 - Dolor torácico no anginoso,130,233,0 - No,1 - anormalidad de onda ST-T,179,1 - Sí,0.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,0 - Mujer,1 - Angina atípica,136,319,1 - Sí,0 - Normal,152,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,0 - Sano
+56,1 - Hombre,2 - Dolor torácico no anginoso,130,256,1 - Sí,0 - Normal,142,1 - Sí,0.6,1 - Estanco,1,1 - Normal,0 - Sano
+55,0 - Mujer,0 - Angina típica,180,327,0 - No,2 - hipertrofia ventricular probable o definitiva,117,1 - Sí,3.4,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+44,1 - Hombre,0 - Angina típica,120,169,0 - No,1 - anormalidad de onda ST-T,144,1 - Sí,2.8,0 - Ascendente,0,1 - Normal,0 - Sano
+50,0 - Mujer,1 - Angina atípica,120,244,0 - No,1 - anormalidad de onda ST-T,162,0 - No,1.1,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,0 - Angina típica,130,131,0 - No,1 - anormalidad de onda ST-T,115,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+70,1 - Hombre,2 - Dolor torácico no anginoso,160,269,0 - No,1 - anormalidad de onda ST-T,112,1 - Sí,2.9,1 - Estanco,1,3 - Reversible,0 - Sano
+50,1 - Hombre,2 - Dolor torácico no anginoso,129,196,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+46,1 - Hombre,2 - Dolor torácico no anginoso,150,231,0 - No,1 - anormalidad de onda ST-T,147,0 - No,3.6,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+51,1 - Hombre,3 - Asintomático,125,213,0 - No,0 - Normal,125,1 - Sí,1.4,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,0 - Angina típica,138,271,0 - No,0 - Normal,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,0 - Angina típica,128,263,0 - No,1 - anormalidad de onda ST-T,105,1 - Sí,0.2,1 - Estanco,1,3 - Reversible,1 - Enfermo
+57,1 - Hombre,2 - Dolor torácico no anginoso,128,229,0 - No,0 - Normal,150,0 - No,0.4,1 - Estanco,1,3 - Reversible,0 - Sano
+65,0 - Mujer,2 - Dolor torácico no anginoso,160,360,0 - No,0 - Normal,151,0 - No,0.8,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,2 - Dolor torácico no anginoso,120,258,0 - No,0 - Normal,147,0 - No,0.4,1 - Estanco,0,3 - Reversible,1 - Enfermo
+61,0 - Mujer,0 - Angina típica,130,330,0 - No,0 - Normal,169,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+46,1 - Hombre,0 - Angina típica,120,249,0 - No,0 - Normal,144,0 - No,0.8,2 - Descendente,0,3 - Reversible,0 - Sano
+55,0 - Mujer,1 - Angina atípica,132,342,0 - No,1 - anormalidad de onda ST-T,166,0 - No,1.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+42,1 - Hombre,0 - Angina típica,140,226,0 - No,1 - anormalidad de onda ST-T,178,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,1 - Angina atípica,135,203,0 - No,1 - anormalidad de onda ST-T,132,0 - No,0.0,1 - Estanco,0,1 - Normal,1 - Enfermo
+66,0 - Mujer,0 - Angina típica,178,228,1 - Sí,1 - anormalidad de onda ST-T,165,1 - Sí,1.0,1 - Estanco,2,3 - Reversible,0 - Sano
+66,0 - Mujer,2 - Dolor torácico no anginoso,146,278,0 - No,0 - Normal,152,0 - No,0.0,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,0 - Angina típica,117,230,1 - Sí,1 - anormalidad de onda ST-T,160,1 - Sí,1.4,2 - Descendente,2,3 - Reversible,0 - Sano
+58,0 - Mujer,3 - Asintomático,150,283,1 - Sí,0 - Normal,162,0 - No,1.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,0 - Mujer,0 - Angina típica,140,241,0 - No,1 - anormalidad de onda ST-T,123,1 - Sí,0.2,1 - Estanco,0,3 - Reversible,0 - Sano
+38,1 - Hombre,2 - Dolor torácico no anginoso,138,175,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+49,1 - Hombre,2 - Dolor torácico no anginoso,120,188,0 - No,1 - anormalidad de onda ST-T,139,0 - No,2.0,1 - Estanco,3,3 - Reversible,0 - Sano
+55,1 - Hombre,0 - Angina típica,140,217,0 - No,1 - anormalidad de onda ST-T,111,1 - Sí,5.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+55,1 - Hombre,0 - Angina típica,140,217,0 - No,1 - anormalidad de onda ST-T,111,1 - Sí,5.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+56,1 - Hombre,3 - Asintomático,120,193,0 - No,0 - Normal,162,0 - No,1.9,1 - Estanco,0,3 - Reversible,1 - Enfermo
+48,1 - Hombre,1 - Angina atípica,130,245,0 - No,0 - Normal,180,0 - No,0.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+67,1 - Hombre,2 - Dolor torácico no anginoso,152,212,0 - No,0 - Normal,150,0 - No,0.8,1 - Estanco,0,3 - Reversible,0 - Sano
+57,1 - Hombre,1 - Angina atípica,154,232,0 - No,0 - Normal,164,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+29,1 - Hombre,1 - Angina atípica,130,204,0 - No,0 - Normal,202,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+66,0 - Mujer,2 - Dolor torácico no anginoso,146,278,0 - No,0 - Normal,152,0 - No,0.0,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+67,1 - Hombre,0 - Angina típica,100,299,0 - No,0 - Normal,125,1 - Sí,0.9,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+59,1 - Hombre,2 - Dolor torácico no anginoso,150,212,1 - Sí,1 - anormalidad de onda ST-T,157,0 - No,1.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+29,1 - Hombre,1 - Angina atípica,130,204,0 - No,0 - Normal,202,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,3 - Asintomático,170,288,0 - No,0 - Normal,159,0 - No,0.2,1 - Estanco,0,3 - Reversible,0 - Sano
+53,1 - Hombre,2 - Dolor torácico no anginoso,130,197,1 - Sí,0 - Normal,152,0 - No,1.2,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+42,1 - Hombre,0 - Angina típica,136,315,0 - No,1 - anormalidad de onda ST-T,125,1 - Sí,1.8,1 - Estanco,0,1 - Normal,0 - Sano
+37,0 - Mujer,2 - Dolor torácico no anginoso,120,215,0 - No,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+62,0 - Mujer,0 - Angina típica,160,164,0 - No,0 - Normal,145,0 - No,6.2,0 - Ascendente,3,3 - Reversible,0 - Sano
+59,1 - Hombre,0 - Angina típica,170,326,0 - No,0 - Normal,140,1 - Sí,3.4,0 - Ascendente,0,3 - Reversible,0 - Sano
+61,1 - Hombre,0 - Angina típica,140,207,0 - No,0 - Normal,138,1 - Sí,1.9,2 - Descendente,1,3 - Reversible,0 - Sano
+56,1 - Hombre,0 - Angina típica,125,249,1 - Sí,0 - Normal,144,1 - Sí,1.2,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+59,1 - Hombre,0 - Angina típica,140,177,0 - No,1 - anormalidad de onda ST-T,162,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+48,1 - Hombre,0 - Angina típica,130,256,1 - Sí,0 - Normal,150,1 - Sí,0.0,2 - Descendente,2,3 - Reversible,0 - Sano
+47,1 - Hombre,2 - Dolor torácico no anginoso,138,257,0 - No,0 - Normal,156,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+48,1 - Hombre,2 - Dolor torácico no anginoso,124,255,1 - Sí,1 - anormalidad de onda ST-T,175,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+63,1 - Hombre,0 - Angina típica,140,187,0 - No,0 - Normal,144,1 - Sí,4.0,2 - Descendente,2,3 - Reversible,0 - Sano
+52,1 - Hombre,1 - Angina atípica,134,201,0 - No,1 - anormalidad de onda ST-T,158,0 - No,0.8,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,1 - Angina atípica,134,201,0 - No,1 - anormalidad de onda ST-T,158,0 - No,0.8,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+50,1 - Hombre,2 - Dolor torácico no anginoso,140,233,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.6,1 - Estanco,1,3 - Reversible,0 - Sano
+49,1 - Hombre,2 - Dolor torácico no anginoso,118,149,0 - No,0 - Normal,126,0 - No,0.8,2 - Descendente,3,2 - Defecto crónico,0 - Sano
+46,1 - Hombre,2 - Dolor torácico no anginoso,150,231,0 - No,1 - anormalidad de onda ST-T,147,0 - No,3.6,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+38,1 - Hombre,2 - Dolor torácico no anginoso,138,175,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+37,0 - Mujer,2 - Dolor torácico no anginoso,120,215,0 - No,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,1 - Angina atípica,120,220,0 - No,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,2 - Dolor torácico no anginoso,140,211,1 - Sí,0 - Normal,165,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,0 - Mujer,0 - Angina típica,174,249,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,0.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+62,0 - Mujer,0 - Angina típica,140,268,0 - No,0 - Normal,160,0 - No,3.6,0 - Ascendente,2,2 - Defecto crónico,0 - Sano
+68,1 - Hombre,0 - Angina típica,144,193,1 - Sí,1 - anormalidad de onda ST-T,141,0 - No,3.4,1 - Estanco,2,3 - Reversible,0 - Sano
+54,0 - Mujer,2 - Dolor torácico no anginoso,108,267,0 - No,0 - Normal,167,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+62,0 - Mujer,0 - Angina típica,124,209,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+63,1 - Hombre,0 - Angina típica,140,187,0 - No,0 - Normal,144,1 - Sí,4.0,2 - Descendente,2,3 - Reversible,0 - Sano
+44,1 - Hombre,0 - Angina típica,120,169,0 - No,1 - anormalidad de onda ST-T,144,1 - Sí,2.8,0 - Ascendente,0,1 - Normal,0 - Sano
+62,1 - Hombre,1 - Angina atípica,128,208,1 - Sí,0 - Normal,140,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+45,0 - Mujer,0 - Angina típica,138,236,0 - No,0 - Normal,152,1 - Sí,0.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+57,0 - Mujer,0 - Angina típica,128,303,0 - No,0 - Normal,159,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+53,1 - Hombre,0 - Angina típica,123,282,0 - No,1 - anormalidad de onda ST-T,95,1 - Sí,2.0,1 - Estanco,2,3 - Reversible,0 - Sano
+65,1 - Hombre,0 - Angina típica,110,248,0 - No,0 - Normal,158,0 - No,0.6,2 - Descendente,2,1 - Normal,0 - Sano
+76,0 - Mujer,2 - Dolor torácico no anginoso,140,197,0 - No,2 - hipertrofia ventricular probable o definitiva,116,0 - No,1.1,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+43,0 - Mujer,2 - Dolor torácico no anginoso,122,213,0 - No,1 - anormalidad de onda ST-T,165,0 - No,0.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,2 - Dolor torácico no anginoso,150,126,1 - Sí,1 - anormalidad de onda ST-T,173,0 - No,0.2,2 - Descendente,1,3 - Reversible,1 - Enfermo
+54,1 - Hombre,1 - Angina atípica,108,309,0 - No,1 - anormalidad de onda ST-T,156,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+47,1 - Hombre,2 - Dolor torácico no anginoso,138,257,0 - No,0 - Normal,156,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,3 - Asintomático,118,186,0 - No,0 - Normal,190,0 - No,0.0,1 - Estanco,0,1 - Normal,1 - Enfermo
+47,1 - Hombre,0 - Angina típica,110,275,0 - No,0 - Normal,118,1 - Sí,1.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+51,1 - Hombre,0 - Angina típica,140,299,0 - No,1 - anormalidad de onda ST-T,173,1 - Sí,1.6,2 - Descendente,0,3 - Reversible,0 - Sano
+62,1 - Hombre,1 - Angina atípica,120,281,0 - No,0 - Normal,103,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+40,1 - Hombre,0 - Angina típica,152,223,0 - No,1 - anormalidad de onda ST-T,181,0 - No,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,110,206,0 - No,0 - Normal,108,1 - Sí,0.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+44,1 - Hombre,0 - Angina típica,110,197,0 - No,0 - Normal,177,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+53,1 - Hombre,0 - Angina típica,142,226,0 - No,0 - Normal,111,1 - Sí,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+48,1 - Hombre,0 - Angina típica,130,256,1 - Sí,0 - Normal,150,1 - Sí,0.0,2 - Descendente,2,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,110,335,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,3.0,1 - Estanco,1,3 - Reversible,0 - Sano
+59,1 - Hombre,2 - Dolor torácico no anginoso,126,218,1 - Sí,1 - anormalidad de onda ST-T,134,0 - No,2.2,1 - Estanco,1,1 - Normal,0 - Sano
+61,0 - Mujer,0 - Angina típica,145,307,0 - No,0 - Normal,146,1 - Sí,1.0,1 - Estanco,0,3 - Reversible,0 - Sano
+63,1 - Hombre,0 - Angina típica,130,254,0 - No,0 - Normal,147,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+43,1 - Hombre,0 - Angina típica,120,177,0 - No,0 - Normal,120,1 - Sí,2.5,1 - Estanco,0,3 - Reversible,0 - Sano
+29,1 - Hombre,1 - Angina atípica,130,204,0 - No,0 - Normal,202,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+42,1 - Hombre,1 - Angina atípica,120,295,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,1 - Angina atípica,108,309,0 - No,1 - anormalidad de onda ST-T,156,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+44,1 - Hombre,0 - Angina típica,120,169,0 - No,1 - anormalidad de onda ST-T,144,1 - Sí,2.8,0 - Ascendente,0,1 - Normal,0 - Sano
+60,1 - Hombre,0 - Angina típica,145,282,0 - No,0 - Normal,142,1 - Sí,2.8,1 - Estanco,2,3 - Reversible,0 - Sano
+65,0 - Mujer,2 - Dolor torácico no anginoso,140,417,1 - Sí,0 - Normal,157,0 - No,0.8,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,0 - Angina típica,120,260,0 - No,1 - anormalidad de onda ST-T,140,1 - Sí,3.6,1 - Estanco,1,3 - Reversible,0 - Sano
+60,0 - Mujer,3 - Asintomático,150,240,0 - No,1 - anormalidad de onda ST-T,171,0 - No,0.9,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+66,1 - Hombre,0 - Angina típica,120,302,0 - No,0 - Normal,151,0 - No,0.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+53,1 - Hombre,2 - Dolor torácico no anginoso,130,197,1 - Sí,0 - Normal,152,0 - No,1.2,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,2 - Dolor torácico no anginoso,138,223,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,0 - Angina típica,140,192,0 - No,1 - anormalidad de onda ST-T,148,0 - No,0.4,1 - Estanco,0,1 - Normal,1 - Enfermo
+60,0 - Mujer,3 - Asintomático,150,240,0 - No,1 - anormalidad de onda ST-T,171,0 - No,0.9,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+51,0 - Mujer,2 - Dolor torácico no anginoso,130,256,0 - No,0 - Normal,149,0 - No,0.5,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,1 - Angina atípica,135,203,0 - No,1 - anormalidad de onda ST-T,132,0 - No,0.0,1 - Estanco,0,1 - Normal,1 - Enfermo
+50,1 - Hombre,2 - Dolor torácico no anginoso,129,196,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,1 - Angina atípica,108,309,0 - No,1 - anormalidad de onda ST-T,156,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+58,0 - Mujer,0 - Angina típica,170,225,1 - Sí,0 - Normal,146,1 - Sí,2.8,1 - Estanco,2,1 - Normal,0 - Sano
+55,0 - Mujer,1 - Angina atípica,132,342,0 - No,1 - anormalidad de onda ST-T,166,0 - No,1.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,0 - Mujer,0 - Angina típica,180,325,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+47,1 - Hombre,2 - Dolor torácico no anginoso,138,257,0 - No,0 - Normal,156,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,1 - Angina atípica,110,235,0 - No,1 - anormalidad de onda ST-T,153,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,0 - Angina típica,152,274,0 - No,1 - anormalidad de onda ST-T,88,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+63,0 - Mujer,0 - Angina típica,124,197,0 - No,1 - anormalidad de onda ST-T,136,1 - Sí,0.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+61,1 - Hombre,3 - Asintomático,134,234,0 - No,1 - anormalidad de onda ST-T,145,0 - No,2.6,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+34,1 - Hombre,3 - Asintomático,118,182,0 - No,0 - Normal,174,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+47,1 - Hombre,0 - Angina típica,112,204,0 - No,1 - anormalidad de onda ST-T,143,0 - No,0.1,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+40,1 - Hombre,0 - Angina típica,110,167,0 - No,0 - Normal,114,1 - Sí,2.0,1 - Estanco,0,3 - Reversible,0 - Sano
+51,0 - Mujer,2 - Dolor torácico no anginoso,120,295,0 - No,0 - Normal,157,0 - No,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,0 - Angina típica,110,172,0 - No,0 - Normal,158,0 - No,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+52,1 - Hombre,3 - Asintomático,152,298,1 - Sí,1 - anormalidad de onda ST-T,178,0 - No,1.2,1 - Estanco,0,3 - Reversible,1 - Enfermo
+39,1 - Hombre,2 - Dolor torácico no anginoso,140,321,0 - No,0 - Normal,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,114,318,0 - No,2 - hipertrofia ventricular probable o definitiva,140,0 - No,4.4,0 - Ascendente,3,1 - Normal,0 - Sano
+54,1 - Hombre,1 - Angina atípica,192,283,0 - No,0 - Normal,195,0 - No,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+58,1 - Hombre,0 - Angina típica,125,300,0 - No,0 - Normal,171,0 - No,0.0,2 - Descendente,2,3 - Reversible,0 - Sano
+54,1 - Hombre,2 - Dolor torácico no anginoso,120,258,0 - No,0 - Normal,147,0 - No,0.4,1 - Estanco,0,3 - Reversible,1 - Enfermo
+63,1 - Hombre,0 - Angina típica,130,330,1 - Sí,0 - Normal,132,1 - Sí,1.8,2 - Descendente,3,3 - Reversible,0 - Sano
+54,1 - Hombre,1 - Angina atípica,108,309,0 - No,1 - anormalidad de onda ST-T,156,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+40,1 - Hombre,3 - Asintomático,140,199,0 - No,1 - anormalidad de onda ST-T,178,1 - Sí,1.4,2 - Descendente,0,3 - Reversible,1 - Enfermo
+54,1 - Hombre,2 - Dolor torácico no anginoso,120,258,0 - No,0 - Normal,147,0 - No,0.4,1 - Estanco,0,3 - Reversible,1 - Enfermo
+67,0 - Mujer,2 - Dolor torácico no anginoso,115,564,0 - No,0 - Normal,160,0 - No,1.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+41,1 - Hombre,1 - Angina atípica,120,157,0 - No,1 - anormalidad de onda ST-T,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+77,1 - Hombre,0 - Angina típica,125,304,0 - No,0 - Normal,162,1 - Sí,0.0,2 - Descendente,3,2 - Defecto crónico,0 - Sano
+51,1 - Hombre,2 - Dolor torácico no anginoso,100,222,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+77,1 - Hombre,0 - Angina típica,125,304,0 - No,0 - Normal,162,1 - Sí,0.0,2 - Descendente,3,2 - Defecto crónico,0 - Sano
+48,1 - Hombre,0 - Angina típica,124,274,0 - No,0 - Normal,166,0 - No,0.5,1 - Estanco,0,3 - Reversible,0 - Sano
+56,1 - Hombre,0 - Angina típica,125,249,1 - Sí,0 - Normal,144,1 - Sí,1.2,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+59,1 - Hombre,0 - Angina típica,170,326,0 - No,0 - Normal,140,1 - Sí,3.4,0 - Ascendente,0,3 - Reversible,0 - Sano
+56,1 - Hombre,0 - Angina típica,132,184,0 - No,0 - Normal,105,1 - Sí,2.1,1 - Estanco,1,1 - Normal,0 - Sano
+57,0 - Mujer,0 - Angina típica,120,354,0 - No,1 - anormalidad de onda ST-T,163,1 - Sí,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,2 - Dolor torácico no anginoso,130,315,0 - No,1 - anormalidad de onda ST-T,162,0 - No,1.9,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+45,0 - Mujer,1 - Angina atípica,112,160,0 - No,1 - anormalidad de onda ST-T,138,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,150,247,0 - No,1 - anormalidad de onda ST-T,171,0 - No,1.5,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,0 - Angina típica,130,283,1 - Sí,0 - Normal,103,1 - Sí,1.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+56,1 - Hombre,1 - Angina atípica,120,240,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+39,0 - Mujer,2 - Dolor torácico no anginoso,94,199,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,0 - Angina típica,110,239,0 - No,1 - anormalidad de onda ST-T,126,1 - Sí,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+56,0 - Mujer,0 - Angina típica,200,288,1 - Sí,0 - Normal,133,1 - Sí,4.0,0 - Ascendente,2,3 - Reversible,0 - Sano
+56,1 - Hombre,0 - Angina típica,130,283,1 - Sí,0 - Normal,103,1 - Sí,1.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+64,1 - Hombre,0 - Angina típica,120,246,0 - No,0 - Normal,96,1 - Sí,2.2,0 - Ascendente,1,2 - Defecto crónico,0 - Sano
+44,1 - Hombre,0 - Angina típica,110,197,0 - No,0 - Normal,177,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+56,0 - Mujer,0 - Angina típica,134,409,0 - No,0 - Normal,150,1 - Sí,1.9,1 - Estanco,2,3 - Reversible,0 - Sano
+63,1 - Hombre,0 - Angina típica,140,187,0 - No,0 - Normal,144,1 - Sí,4.0,2 - Descendente,2,3 - Reversible,0 - Sano
+64,1 - Hombre,3 - Asintomático,110,211,0 - No,0 - Normal,144,1 - Sí,1.8,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,0 - Angina típica,140,293,0 - No,0 - Normal,170,0 - No,1.2,1 - Estanco,2,3 - Reversible,0 - Sano
+42,1 - Hombre,2 - Dolor torácico no anginoso,130,180,0 - No,1 - anormalidad de onda ST-T,150,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+45,1 - Hombre,1 - Angina atípica,128,308,0 - No,0 - Normal,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,0 - Angina típica,165,289,1 - Sí,0 - Normal,124,0 - No,1.0,1 - Estanco,3,3 - Reversible,0 - Sano
+40,1 - Hombre,0 - Angina típica,110,167,0 - No,0 - Normal,114,1 - Sí,2.0,1 - Estanco,0,3 - Reversible,0 - Sano
+56,1 - Hombre,0 - Angina típica,125,249,1 - Sí,0 - Normal,144,1 - Sí,1.2,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+63,1 - Hombre,0 - Angina típica,130,254,0 - No,0 - Normal,147,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+64,1 - Hombre,2 - Dolor torácico no anginoso,125,309,0 - No,1 - anormalidad de onda ST-T,131,1 - Sí,1.8,1 - Estanco,0,3 - Reversible,0 - Sano
+41,1 - Hombre,2 - Dolor torácico no anginoso,112,250,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,1 - Angina atípica,130,221,0 - No,0 - Normal,163,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+67,0 - Mujer,2 - Dolor torácico no anginoso,115,564,0 - No,0 - Normal,160,0 - No,1.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+69,1 - Hombre,3 - Asintomático,160,234,1 - Sí,0 - Normal,131,0 - No,0.1,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+67,1 - Hombre,0 - Angina típica,160,286,0 - No,0 - Normal,108,1 - Sí,1.5,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+59,1 - Hombre,2 - Dolor torácico no anginoso,150,212,1 - Sí,1 - anormalidad de onda ST-T,157,0 - No,1.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,100,234,0 - No,1 - anormalidad de onda ST-T,156,0 - No,0.1,2 - Descendente,1,3 - Reversible,0 - Sano
+45,1 - Hombre,0 - Angina típica,115,260,0 - No,0 - Normal,185,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+60,0 - Mujer,2 - Dolor torácico no anginoso,102,318,0 - No,1 - anormalidad de onda ST-T,160,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+50,1 - Hombre,0 - Angina típica,144,200,0 - No,0 - Normal,126,1 - Sí,0.9,1 - Estanco,0,3 - Reversible,0 - Sano
+62,0 - Mujer,0 - Angina típica,124,209,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+34,1 - Hombre,3 - Asintomático,118,182,0 - No,0 - Normal,174,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,3 - Asintomático,152,298,1 - Sí,1 - anormalidad de onda ST-T,178,0 - No,1.2,1 - Estanco,0,3 - Reversible,1 - Enfermo
+64,1 - Hombre,3 - Asintomático,170,227,0 - No,0 - Normal,155,0 - No,0.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+66,0 - Mujer,2 - Dolor torácico no anginoso,146,278,0 - No,0 - Normal,152,0 - No,0.0,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+42,1 - Hombre,3 - Asintomático,148,244,0 - No,0 - Normal,178,0 - No,0.8,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,2 - Dolor torácico no anginoso,126,218,1 - Sí,1 - anormalidad de onda ST-T,134,0 - No,2.2,1 - Estanco,1,1 - Normal,0 - Sano
+41,1 - Hombre,2 - Dolor torácico no anginoso,112,250,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+38,1 - Hombre,2 - Dolor torácico no anginoso,138,175,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+62,1 - Hombre,1 - Angina atípica,120,281,0 - No,0 - Normal,103,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+42,1 - Hombre,2 - Dolor torácico no anginoso,120,240,1 - Sí,1 - anormalidad de onda ST-T,194,0 - No,0.8,0 - Ascendente,0,3 - Reversible,1 - Enfermo
+67,1 - Hombre,0 - Angina típica,100,299,0 - No,0 - Normal,125,1 - Sí,0.9,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+50,1 - Hombre,0 - Angina típica,150,243,0 - No,0 - Normal,128,0 - No,2.6,1 - Estanco,0,3 - Reversible,0 - Sano
+43,1 - Hombre,2 - Dolor torácico no anginoso,130,315,0 - No,1 - anormalidad de onda ST-T,162,0 - No,1.9,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+45,1 - Hombre,1 - Angina atípica,128,308,0 - No,0 - Normal,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+49,1 - Hombre,1 - Angina atípica,130,266,0 - No,1 - anormalidad de onda ST-T,171,0 - No,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+65,1 - Hombre,0 - Angina típica,135,254,0 - No,0 - Normal,127,0 - No,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+41,1 - Hombre,1 - Angina atípica,120,157,0 - No,1 - anormalidad de onda ST-T,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+46,1 - Hombre,0 - Angina típica,140,311,0 - No,1 - anormalidad de onda ST-T,120,1 - Sí,1.8,1 - Estanco,2,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,122,286,0 - No,0 - Normal,116,1 - Sí,3.2,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+57,0 - Mujer,1 - Angina atípica,130,236,0 - No,0 - Normal,174,0 - No,0.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+63,1 - Hombre,0 - Angina típica,130,254,0 - No,0 - Normal,147,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+64,1 - Hombre,3 - Asintomático,110,211,0 - No,0 - Normal,144,1 - Sí,1.8,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+39,0 - Mujer,2 - Dolor torácico no anginoso,94,199,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,0 - Angina típica,140,261,0 - No,0 - Normal,186,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,2 - Dolor torácico no anginoso,150,232,0 - No,0 - Normal,165,0 - No,1.6,2 - Descendente,0,3 - Reversible,1 - Enfermo
+49,1 - Hombre,2 - Dolor torácico no anginoso,118,149,0 - No,0 - Normal,126,0 - No,0.8,2 - Descendente,3,2 - Defecto crónico,0 - Sano
+44,0 - Mujer,2 - Dolor torácico no anginoso,118,242,0 - No,1 - anormalidad de onda ST-T,149,0 - No,0.3,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,1 - Angina atípica,128,205,1 - Sí,1 - anormalidad de onda ST-T,184,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+66,0 - Mujer,0 - Angina típica,178,228,1 - Sí,1 - anormalidad de onda ST-T,165,1 - Sí,1.0,1 - Estanco,2,3 - Reversible,0 - Sano
+58,1 - Hombre,0 - Angina típica,125,300,0 - No,0 - Normal,171,0 - No,0.0,2 - Descendente,2,3 - Reversible,0 - Sano
+56,1 - Hombre,1 - Angina atípica,120,236,0 - No,1 - anormalidad de onda ST-T,178,0 - No,0.8,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,0 - Angina típica,125,258,0 - No,0 - Normal,141,1 - Sí,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+41,0 - Mujer,1 - Angina atípica,126,306,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+49,0 - Mujer,0 - Angina típica,130,269,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,3 - Asintomático,170,227,0 - No,0 - Normal,155,0 - No,0.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+49,1 - Hombre,2 - Dolor torácico no anginoso,118,149,0 - No,0 - Normal,126,0 - No,0.8,2 - Descendente,3,2 - Defecto crónico,0 - Sano
+57,1 - Hombre,1 - Angina atípica,124,261,0 - No,1 - anormalidad de onda ST-T,141,0 - No,0.3,2 - Descendente,0,3 - Reversible,0 - Sano
+60,1 - Hombre,0 - Angina típica,117,230,1 - Sí,1 - anormalidad de onda ST-T,160,1 - Sí,1.4,2 - Descendente,2,3 - Reversible,0 - Sano
+62,0 - Mujer,0 - Angina típica,150,244,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,1.4,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+54,0 - Mujer,1 - Angina atípica,132,288,1 - Sí,0 - Normal,159,1 - Sí,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+67,1 - Hombre,2 - Dolor torácico no anginoso,152,212,0 - No,0 - Normal,150,0 - No,0.8,1 - Estanco,0,3 - Reversible,0 - Sano
+38,1 - Hombre,2 - Dolor torácico no anginoso,138,175,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,2 - Dolor torácico no anginoso,140,185,0 - No,0 - Normal,155,0 - No,3.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+51,1 - Hombre,2 - Dolor torácico no anginoso,125,245,1 - Sí,0 - Normal,166,0 - No,2.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,1 - Angina atípica,130,219,0 - No,0 - Normal,188,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,1 - Angina atípica,192,283,0 - No,0 - Normal,195,0 - No,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+46,1 - Hombre,0 - Angina típica,140,311,0 - No,1 - anormalidad de onda ST-T,120,1 - Sí,1.8,1 - Estanco,2,3 - Reversible,0 - Sano
+39,0 - Mujer,2 - Dolor torácico no anginoso,138,220,0 - No,1 - anormalidad de onda ST-T,152,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+42,1 - Hombre,2 - Dolor torácico no anginoso,130,180,0 - No,1 - anormalidad de onda ST-T,150,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+47,1 - Hombre,0 - Angina típica,110,275,0 - No,0 - Normal,118,1 - Sí,1.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+45,0 - Mujer,1 - Angina atípica,112,160,0 - No,1 - anormalidad de onda ST-T,138,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+55,1 - Hombre,0 - Angina típica,132,353,0 - No,1 - anormalidad de onda ST-T,132,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,165,289,1 - Sí,0 - Normal,124,0 - No,1.0,1 - Estanco,3,3 - Reversible,0 - Sano
+35,1 - Hombre,0 - Angina típica,120,198,0 - No,1 - anormalidad de onda ST-T,130,1 - Sí,1.6,1 - Estanco,0,3 - Reversible,0 - Sano
+62,0 - Mujer,0 - Angina típica,140,394,0 - No,0 - Normal,157,0 - No,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+35,0 - Mujer,0 - Angina típica,138,183,0 - No,1 - anormalidad de onda ST-T,182,0 - No,1.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,0 - Mujer,0 - Angina típica,180,325,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+38,1 - Hombre,3 - Asintomático,120,231,0 - No,1 - anormalidad de onda ST-T,182,1 - Sí,3.8,1 - Estanco,0,3 - Reversible,0 - Sano
+66,1 - Hombre,0 - Angina típica,120,302,0 - No,0 - Normal,151,0 - No,0.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,2 - Dolor torácico no anginoso,120,226,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,2 - Dolor torácico no anginoso,150,232,0 - No,0 - Normal,165,0 - No,1.6,2 - Descendente,0,3 - Reversible,1 - Enfermo
+48,1 - Hombre,0 - Angina típica,122,222,0 - No,0 - Normal,186,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+55,0 - Mujer,1 - Angina atípica,132,342,0 - No,1 - anormalidad de onda ST-T,166,0 - No,1.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,0 - Mujer,0 - Angina típica,170,225,1 - Sí,0 - Normal,146,1 - Sí,2.8,1 - Estanco,2,1 - Normal,0 - Sano
+45,1 - Hombre,0 - Angina típica,104,208,0 - No,0 - Normal,148,1 - Sí,3.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+53,1 - Hombre,0 - Angina típica,123,282,0 - No,1 - anormalidad de onda ST-T,95,1 - Sí,2.0,1 - Estanco,2,3 - Reversible,0 - Sano
+67,1 - Hombre,0 - Angina típica,120,237,0 - No,1 - anormalidad de onda ST-T,71,0 - No,1.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+58,1 - Hombre,2 - Dolor torácico no anginoso,132,224,0 - No,0 - Normal,173,0 - No,3.2,2 - Descendente,2,3 - Reversible,0 - Sano
+71,0 - Mujer,2 - Dolor torácico no anginoso,110,265,1 - Sí,0 - Normal,130,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,110,211,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+44,1 - Hombre,1 - Angina atípica,120,263,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+39,0 - Mujer,2 - Dolor torácico no anginoso,138,220,0 - No,1 - anormalidad de onda ST-T,152,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,0 - Angina típica,110,206,0 - No,0 - Normal,108,1 - Sí,0.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+66,1 - Hombre,0 - Angina típica,160,228,0 - No,0 - Normal,138,0 - No,2.3,2 - Descendente,0,1 - Normal,1 - Enfermo
+56,1 - Hombre,0 - Angina típica,130,283,1 - Sí,0 - Normal,103,1 - Sí,1.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,132,207,0 - No,1 - anormalidad de onda ST-T,168,1 - Sí,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+44,1 - Hombre,1 - Angina atípica,130,219,0 - No,0 - Normal,188,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+55,1 - Hombre,0 - Angina típica,160,289,0 - No,0 - Normal,145,1 - Sí,0.8,1 - Estanco,1,3 - Reversible,0 - Sano
+41,0 - Mujer,1 - Angina atípica,105,198,0 - No,1 - anormalidad de onda ST-T,168,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+45,0 - Mujer,1 - Angina atípica,130,234,0 - No,0 - Normal,175,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+35,1 - Hombre,1 - Angina atípica,122,192,0 - No,1 - anormalidad de onda ST-T,174,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,0 - Mujer,1 - Angina atípica,130,204,0 - No,0 - Normal,172,0 - No,1.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,3 - Asintomático,110,211,0 - No,0 - Normal,144,1 - Sí,1.8,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,2 - Dolor torácico no anginoso,132,224,0 - No,0 - Normal,173,0 - No,3.2,2 - Descendente,2,3 - Reversible,0 - Sano
+71,0 - Mujer,2 - Dolor torácico no anginoso,110,265,1 - Sí,0 - Normal,130,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+64,0 - Mujer,2 - Dolor torácico no anginoso,140,313,0 - No,1 - anormalidad de onda ST-T,133,0 - No,0.2,2 - Descendente,0,3 - Reversible,1 - Enfermo
+71,0 - Mujer,1 - Angina atípica,160,302,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.4,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+58,0 - Mujer,2 - Dolor torácico no anginoso,120,340,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+40,1 - Hombre,0 - Angina típica,152,223,0 - No,1 - anormalidad de onda ST-T,181,0 - No,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+52,1 - Hombre,2 - Dolor torácico no anginoso,138,223,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,128,259,0 - No,0 - Normal,130,1 - Sí,3.0,1 - Estanco,2,3 - Reversible,0 - Sano
+61,1 - Hombre,2 - Dolor torácico no anginoso,150,243,1 - Sí,1 - anormalidad de onda ST-T,137,1 - Sí,1.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,2 - Dolor torácico no anginoso,150,212,1 - Sí,1 - anormalidad de onda ST-T,157,0 - No,1.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+56,0 - Mujer,0 - Angina típica,200,288,1 - Sí,0 - Normal,133,1 - Sí,4.0,0 - Ascendente,2,3 - Reversible,0 - Sano
+67,1 - Hombre,0 - Angina típica,100,299,0 - No,0 - Normal,125,1 - Sí,0.9,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+67,1 - Hombre,0 - Angina típica,120,237,0 - No,1 - anormalidad de onda ST-T,71,0 - No,1.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+58,1 - Hombre,0 - Angina típica,150,270,0 - No,0 - Normal,111,1 - Sí,0.8,2 - Descendente,0,3 - Reversible,0 - Sano
+35,1 - Hombre,1 - Angina atípica,122,192,0 - No,1 - anormalidad de onda ST-T,174,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,1 - Angina atípica,120,325,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+46,0 - Mujer,1 - Angina atípica,105,204,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,2 - Dolor torácico no anginoso,94,227,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,1 - Enfermo
+55,0 - Mujer,1 - Angina atípica,132,342,0 - No,1 - anormalidad de onda ST-T,166,0 - No,1.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,0 - Angina típica,145,282,0 - No,0 - Normal,142,1 - Sí,2.8,1 - Estanco,2,3 - Reversible,0 - Sano
+52,0 - Mujer,2 - Dolor torácico no anginoso,136,196,0 - No,0 - Normal,169,0 - No,0.1,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+62,1 - Hombre,0 - Angina típica,120,267,0 - No,1 - anormalidad de onda ST-T,99,1 - Sí,1.8,1 - Estanco,2,3 - Reversible,0 - Sano
+44,0 - Mujer,2 - Dolor torácico no anginoso,118,242,0 - No,1 - anormalidad de onda ST-T,149,0 - No,0.3,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,1 - Angina atípica,120,220,0 - No,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,2 - Dolor torácico no anginoso,126,218,1 - Sí,1 - anormalidad de onda ST-T,134,0 - No,2.2,1 - Estanco,1,1 - Normal,0 - Sano
+56,0 - Mujer,1 - Angina atípica,140,294,0 - No,0 - Normal,153,0 - No,1.3,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,0 - Angina típica,120,260,0 - No,1 - anormalidad de onda ST-T,140,1 - Sí,3.6,1 - Estanco,1,3 - Reversible,0 - Sano
+48,1 - Hombre,0 - Angina típica,130,256,1 - Sí,0 - Normal,150,1 - Sí,0.0,2 - Descendente,2,3 - Reversible,0 - Sano
+70,1 - Hombre,2 - Dolor torácico no anginoso,160,269,0 - No,1 - anormalidad de onda ST-T,112,1 - Sí,2.9,1 - Estanco,1,3 - Reversible,0 - Sano
+74,0 - Mujer,1 - Angina atípica,120,269,0 - No,0 - Normal,121,1 - Sí,0.2,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+40,1 - Hombre,3 - Asintomático,140,199,0 - No,1 - anormalidad de onda ST-T,178,1 - Sí,1.4,2 - Descendente,0,3 - Reversible,1 - Enfermo
+42,1 - Hombre,3 - Asintomático,148,244,0 - No,0 - Normal,178,0 - No,0.8,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+64,0 - Mujer,2 - Dolor torácico no anginoso,140,313,0 - No,1 - anormalidad de onda ST-T,133,0 - No,0.2,2 - Descendente,0,3 - Reversible,1 - Enfermo
+63,0 - Mujer,2 - Dolor torácico no anginoso,135,252,0 - No,0 - Normal,172,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,0 - Angina típica,140,177,0 - No,1 - anormalidad de onda ST-T,162,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+53,0 - Mujer,2 - Dolor torácico no anginoso,128,216,0 - No,0 - Normal,115,0 - No,0.0,2 - Descendente,0,0,1 - Enfermo
+53,0 - Mujer,0 - Angina típica,130,264,0 - No,0 - Normal,143,0 - No,0.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+48,0 - Mujer,2 - Dolor torácico no anginoso,130,275,0 - No,1 - anormalidad de onda ST-T,139,0 - No,0.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+45,1 - Hombre,0 - Angina típica,142,309,0 - No,0 - Normal,147,1 - Sí,0.0,1 - Estanco,3,3 - Reversible,0 - Sano
+66,1 - Hombre,1 - Angina atípica,160,246,0 - No,1 - anormalidad de onda ST-T,120,1 - Sí,0.0,1 - Estanco,3,1 - Normal,0 - Sano
+48,1 - Hombre,1 - Angina atípica,130,245,0 - No,0 - Normal,180,0 - No,0.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+56,0 - Mujer,1 - Angina atípica,140,294,0 - No,0 - Normal,153,0 - No,1.3,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,1 - Angina atípica,192,283,0 - No,0 - Normal,195,0 - No,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,150,276,0 - No,0 - Normal,112,1 - Sí,0.6,1 - Estanco,1,1 - Normal,0 - Sano
+70,1 - Hombre,0 - Angina típica,130,322,0 - No,0 - Normal,109,0 - No,2.4,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+53,0 - Mujer,2 - Dolor torácico no anginoso,128,216,0 - No,0 - Normal,115,0 - No,0.0,2 - Descendente,0,0,1 - Enfermo
+37,0 - Mujer,2 - Dolor torácico no anginoso,120,215,0 - No,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+63,0 - Mujer,0 - Angina típica,108,269,0 - No,1 - anormalidad de onda ST-T,169,1 - Sí,1.8,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+37,1 - Hombre,2 - Dolor torácico no anginoso,130,250,0 - No,1 - anormalidad de onda ST-T,187,0 - No,3.5,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+54,0 - Mujer,2 - Dolor torácico no anginoso,110,214,0 - No,1 - anormalidad de onda ST-T,158,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,0 - Angina típica,130,206,0 - No,0 - Normal,132,1 - Sí,2.4,1 - Estanco,2,3 - Reversible,0 - Sano
+58,1 - Hombre,0 - Angina típica,150,270,0 - No,0 - Normal,111,1 - Sí,0.8,2 - Descendente,0,3 - Reversible,0 - Sano
+57,1 - Hombre,2 - Dolor torácico no anginoso,150,126,1 - Sí,1 - anormalidad de onda ST-T,173,0 - No,0.2,2 - Descendente,1,3 - Reversible,1 - Enfermo
+54,1 - Hombre,2 - Dolor torácico no anginoso,125,273,0 - No,0 - Normal,152,0 - No,0.5,0 - Ascendente,1,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,2 - Dolor torácico no anginoso,130,256,1 - Sí,0 - Normal,142,1 - Sí,0.6,1 - Estanco,1,1 - Normal,0 - Sano
+60,1 - Hombre,0 - Angina típica,130,253,0 - No,1 - anormalidad de onda ST-T,144,1 - Sí,1.4,2 - Descendente,1,3 - Reversible,0 - Sano
+38,1 - Hombre,2 - Dolor torácico no anginoso,138,175,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,2 - Dolor torácico no anginoso,120,226,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+65,0 - Mujer,2 - Dolor torácico no anginoso,155,269,0 - No,1 - anormalidad de onda ST-T,148,0 - No,0.8,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,2 - Dolor torácico no anginoso,172,199,1 - Sí,1 - anormalidad de onda ST-T,162,0 - No,0.5,2 - Descendente,0,3 - Reversible,1 - Enfermo
+41,1 - Hombre,1 - Angina atípica,120,157,0 - No,1 - anormalidad de onda ST-T,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+66,1 - Hombre,1 - Angina atípica,160,246,0 - No,1 - anormalidad de onda ST-T,120,1 - Sí,0.0,1 - Estanco,3,1 - Normal,0 - Sano
+50,1 - Hombre,0 - Angina típica,150,243,0 - No,0 - Normal,128,0 - No,2.6,1 - Estanco,0,3 - Reversible,0 - Sano
+54,0 - Mujer,2 - Dolor torácico no anginoso,108,267,0 - No,0 - Normal,167,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,132,247,1 - Sí,0 - Normal,143,1 - Sí,0.1,1 - Estanco,4,3 - Reversible,0 - Sano
+62,0 - Mujer,2 - Dolor torácico no anginoso,130,263,0 - No,1 - anormalidad de onda ST-T,97,0 - No,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+66,1 - Hombre,0 - Angina típica,120,302,0 - No,0 - Normal,151,0 - No,0.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+50,1 - Hombre,0 - Angina típica,144,200,0 - No,0 - Normal,126,1 - Sí,0.9,1 - Estanco,0,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,110,335,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,3.0,1 - Estanco,1,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,110,201,0 - No,1 - anormalidad de onda ST-T,126,1 - Sí,1.5,1 - Estanco,0,1 - Normal,1 - Enfermo
+57,1 - Hombre,1 - Angina atípica,124,261,0 - No,1 - anormalidad de onda ST-T,141,0 - No,0.3,2 - Descendente,0,3 - Reversible,0 - Sano
+46,0 - Mujer,0 - Angina típica,138,243,0 - No,0 - Normal,152,1 - Sí,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,0 - Angina típica,164,176,1 - Sí,0 - Normal,90,0 - No,1.0,1 - Estanco,2,1 - Normal,0 - Sano
+67,1 - Hombre,0 - Angina típica,160,286,0 - No,0 - Normal,108,1 - Sí,1.5,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+59,1 - Hombre,3 - Asintomático,134,204,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.8,2 - Descendente,2,2 - Defecto crónico,0 - Sano
+53,0 - Mujer,2 - Dolor torácico no anginoso,128,216,0 - No,0 - Normal,115,0 - No,0.0,2 - Descendente,0,0,1 - Enfermo
+48,1 - Hombre,0 - Angina típica,122,222,0 - No,0 - Normal,186,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+62,1 - Hombre,2 - Dolor torácico no anginoso,130,231,0 - No,1 - anormalidad de onda ST-T,146,0 - No,1.8,1 - Estanco,3,3 - Reversible,1 - Enfermo
+43,0 - Mujer,2 - Dolor torácico no anginoso,122,213,0 - No,1 - anormalidad de onda ST-T,165,0 - No,0.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+53,1 - Hombre,2 - Dolor torácico no anginoso,130,246,1 - Sí,0 - Normal,173,0 - No,0.0,2 - Descendente,3,2 - Defecto crónico,1 - Enfermo
+57,0 - Mujer,1 - Angina atípica,130,236,0 - No,0 - Normal,174,0 - No,0.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+53,1 - Hombre,2 - Dolor torácico no anginoso,130,246,1 - Sí,0 - Normal,173,0 - No,0.0,2 - Descendente,3,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,2 - Dolor torácico no anginoso,112,230,0 - No,0 - Normal,165,0 - No,2.5,1 - Estanco,1,3 - Reversible,0 - Sano
+48,1 - Hombre,1 - Angina atípica,110,229,0 - No,1 - anormalidad de onda ST-T,168,0 - No,1.0,0 - Ascendente,0,3 - Reversible,0 - Sano
+58,1 - Hombre,2 - Dolor torácico no anginoso,105,240,0 - No,0 - Normal,154,1 - Sí,0.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+51,1 - Hombre,2 - Dolor torácico no anginoso,110,175,0 - No,1 - anormalidad de onda ST-T,123,0 - No,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+43,0 - Mujer,0 - Angina típica,132,341,1 - Sí,0 - Normal,136,1 - Sí,3.0,1 - Estanco,0,3 - Reversible,0 - Sano
+55,1 - Hombre,0 - Angina típica,132,353,0 - No,1 - anormalidad de onda ST-T,132,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+54,0 - Mujer,2 - Dolor torácico no anginoso,110,214,0 - No,1 - anormalidad de onda ST-T,158,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,1 - Angina atípica,120,284,0 - No,0 - Normal,160,0 - No,1.8,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+46,0 - Mujer,2 - Dolor torácico no anginoso,142,177,0 - No,0 - Normal,160,1 - Sí,1.4,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+66,1 - Hombre,0 - Angina típica,160,228,0 - No,0 - Normal,138,0 - No,2.3,2 - Descendente,0,1 - Normal,1 - Enfermo
+59,1 - Hombre,1 - Angina atípica,140,221,0 - No,1 - anormalidad de onda ST-T,164,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,0 - Mujer,0 - Angina típica,130,303,0 - No,1 - anormalidad de onda ST-T,122,0 - No,2.0,1 - Estanco,2,2 - Defecto crónico,1 - Enfermo
+67,1 - Hombre,0 - Angina típica,120,237,0 - No,1 - anormalidad de onda ST-T,71,0 - No,1.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+52,1 - Hombre,3 - Asintomático,118,186,0 - No,0 - Normal,190,0 - No,0.0,1 - Estanco,0,1 - Normal,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,146,218,0 - No,1 - anormalidad de onda ST-T,105,0 - No,2.0,1 - Estanco,1,3 - Reversible,0 - Sano
+58,1 - Hombre,2 - Dolor torácico no anginoso,132,224,0 - No,0 - Normal,173,0 - No,3.2,2 - Descendente,2,3 - Reversible,0 - Sano
+59,1 - Hombre,0 - Angina típica,110,239,0 - No,0 - Normal,142,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+58,1 - Hombre,0 - Angina típica,150,270,0 - No,0 - Normal,111,1 - Sí,0.8,2 - Descendente,0,3 - Reversible,0 - Sano
+35,1 - Hombre,0 - Angina típica,126,282,0 - No,0 - Normal,156,1 - Sí,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+51,1 - Hombre,2 - Dolor torácico no anginoso,110,175,0 - No,1 - anormalidad de onda ST-T,123,0 - No,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+42,0 - Mujer,2 - Dolor torácico no anginoso,120,209,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+77,1 - Hombre,0 - Angina típica,125,304,0 - No,0 - Normal,162,1 - Sí,0.0,2 - Descendente,3,2 - Defecto crónico,0 - Sano
+64,1 - Hombre,0 - Angina típica,120,246,0 - No,0 - Normal,96,1 - Sí,2.2,0 - Ascendente,1,2 - Defecto crónico,0 - Sano
+63,1 - Hombre,3 - Asintomático,145,233,1 - Sí,0 - Normal,150,0 - No,2.3,0 - Ascendente,0,1 - Normal,1 - Enfermo
+58,0 - Mujer,1 - Angina atípica,136,319,1 - Sí,0 - Normal,152,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,0 - Sano
+45,1 - Hombre,3 - Asintomático,110,264,0 - No,1 - anormalidad de onda ST-T,132,0 - No,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+51,1 - Hombre,2 - Dolor torácico no anginoso,110,175,0 - No,1 - anormalidad de onda ST-T,123,0 - No,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+62,0 - Mujer,0 - Angina típica,160,164,0 - No,0 - Normal,145,0 - No,6.2,0 - Ascendente,3,3 - Reversible,0 - Sano
+63,1 - Hombre,0 - Angina típica,130,330,1 - Sí,0 - Normal,132,1 - Sí,1.8,2 - Descendente,3,3 - Reversible,0 - Sano
+66,0 - Mujer,2 - Dolor torácico no anginoso,146,278,0 - No,0 - Normal,152,0 - No,0.0,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+68,1 - Hombre,2 - Dolor torácico no anginoso,180,274,1 - Sí,0 - Normal,150,1 - Sí,1.6,1 - Estanco,0,3 - Reversible,0 - Sano
+40,1 - Hombre,0 - Angina típica,110,167,0 - No,0 - Normal,114,1 - Sí,2.0,1 - Estanco,0,3 - Reversible,0 - Sano
+66,1 - Hombre,0 - Angina típica,160,228,0 - No,0 - Normal,138,0 - No,2.3,2 - Descendente,0,1 - Normal,1 - Enfermo
+63,1 - Hombre,3 - Asintomático,145,233,1 - Sí,0 - Normal,150,0 - No,2.3,0 - Ascendente,0,1 - Normal,1 - Enfermo
+49,1 - Hombre,2 - Dolor torácico no anginoso,120,188,0 - No,1 - anormalidad de onda ST-T,139,0 - No,2.0,1 - Estanco,3,3 - Reversible,0 - Sano
+71,0 - Mujer,0 - Angina típica,112,149,0 - No,1 - anormalidad de onda ST-T,125,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+70,1 - Hombre,1 - Angina atípica,156,245,0 - No,0 - Normal,143,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+46,0 - Mujer,1 - Angina atípica,105,204,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,0 - Angina típica,140,207,0 - No,0 - Normal,138,1 - Sí,1.9,2 - Descendente,1,3 - Reversible,0 - Sano
+56,1 - Hombre,2 - Dolor torácico no anginoso,130,256,1 - Sí,0 - Normal,142,1 - Sí,0.6,1 - Estanco,1,1 - Normal,0 - Sano
+58,1 - Hombre,2 - Dolor torácico no anginoso,140,211,1 - Sí,0 - Normal,165,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,100,234,0 - No,1 - anormalidad de onda ST-T,156,0 - No,0.1,2 - Descendente,1,3 - Reversible,0 - Sano
+46,0 - Mujer,0 - Angina típica,138,243,0 - No,0 - Normal,152,1 - Sí,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+46,1 - Hombre,2 - Dolor torácico no anginoso,150,231,0 - No,1 - anormalidad de onda ST-T,147,0 - No,3.6,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+41,0 - Mujer,1 - Angina atípica,105,198,0 - No,1 - anormalidad de onda ST-T,168,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,0 - Angina típica,125,249,1 - Sí,0 - Normal,144,1 - Sí,1.2,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+57,1 - Hombre,0 - Angina típica,150,276,0 - No,0 - Normal,112,1 - Sí,0.6,1 - Estanco,1,1 - Normal,0 - Sano
+70,1 - Hombre,0 - Angina típica,130,322,0 - No,0 - Normal,109,0 - No,2.4,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+59,1 - Hombre,3 - Asintomático,170,288,0 - No,0 - Normal,159,0 - No,0.2,1 - Estanco,0,3 - Reversible,0 - Sano
+41,0 - Mujer,1 - Angina atípica,130,204,0 - No,0 - Normal,172,0 - No,1.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,2 - Dolor torácico no anginoso,125,273,0 - No,0 - Normal,152,0 - No,0.5,0 - Ascendente,1,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,2 - Dolor torácico no anginoso,138,223,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+62,0 - Mujer,0 - Angina típica,124,209,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+65,0 - Mujer,2 - Dolor torácico no anginoso,160,360,0 - No,0 - Normal,151,0 - No,0.8,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,0 - Mujer,0 - Angina típica,128,303,0 - No,0 - Normal,159,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+42,0 - Mujer,0 - Angina típica,102,265,0 - No,0 - Normal,122,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+57,0 - Mujer,0 - Angina típica,120,354,0 - No,1 - anormalidad de onda ST-T,163,1 - Sí,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,0 - Mujer,1 - Angina atípica,136,319,1 - Sí,0 - Normal,152,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,0 - Sano
+45,1 - Hombre,0 - Angina típica,142,309,0 - No,0 - Normal,147,1 - Sí,0.0,1 - Estanco,3,3 - Reversible,0 - Sano
+51,0 - Mujer,0 - Angina típica,130,305,0 - No,1 - anormalidad de onda ST-T,142,1 - Sí,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+54,0 - Mujer,2 - Dolor torácico no anginoso,160,201,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,2 - Dolor torácico no anginoso,150,168,0 - No,1 - anormalidad de onda ST-T,174,0 - No,1.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,132,247,1 - Sí,0 - Normal,143,1 - Sí,0.1,1 - Estanco,4,3 - Reversible,0 - Sano
+47,1 - Hombre,2 - Dolor torácico no anginoso,108,243,0 - No,1 - anormalidad de onda ST-T,152,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+67,1 - Hombre,2 - Dolor torácico no anginoso,152,212,0 - No,0 - Normal,150,0 - No,0.8,1 - Estanco,0,3 - Reversible,0 - Sano
+65,0 - Mujer,0 - Angina típica,150,225,0 - No,0 - Normal,114,0 - No,1.0,1 - Estanco,3,3 - Reversible,0 - Sano
+60,0 - Mujer,2 - Dolor torácico no anginoso,102,318,0 - No,1 - anormalidad de onda ST-T,160,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+37,1 - Hombre,2 - Dolor torácico no anginoso,130,250,0 - No,1 - anormalidad de onda ST-T,187,0 - No,3.5,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+41,0 - Mujer,2 - Dolor torácico no anginoso,112,268,0 - No,0 - Normal,172,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,0 - Mujer,0 - Angina típica,120,354,0 - No,1 - anormalidad de onda ST-T,163,1 - Sí,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,0 - Mujer,0 - Angina típica,174,249,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,0.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+67,1 - Hombre,0 - Angina típica,120,229,0 - No,0 - Normal,129,1 - Sí,2.6,1 - Estanco,2,3 - Reversible,0 - Sano
+47,1 - Hombre,2 - Dolor torácico no anginoso,130,253,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,1 - Angina atípica,120,284,0 - No,0 - Normal,160,0 - No,1.8,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+62,0 - Mujer,0 - Angina típica,150,244,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,1.4,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+60,1 - Hombre,0 - Angina típica,140,293,0 - No,0 - Normal,170,0 - No,1.2,1 - Estanco,2,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,152,274,0 - No,1 - anormalidad de onda ST-T,88,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+57,1 - Hombre,2 - Dolor torácico no anginoso,150,168,0 - No,1 - anormalidad de onda ST-T,174,0 - No,1.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+47,1 - Hombre,2 - Dolor torácico no anginoso,130,253,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,1 - Angina atípica,128,205,1 - Sí,1 - anormalidad de onda ST-T,184,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+53,1 - Hombre,2 - Dolor torácico no anginoso,130,246,1 - Sí,0 - Normal,173,0 - No,0.0,2 - Descendente,3,2 - Defecto crónico,1 - Enfermo
+55,1 - Hombre,0 - Angina típica,160,289,0 - No,0 - Normal,145,1 - Sí,0.8,1 - Estanco,1,3 - Reversible,0 - Sano
+51,0 - Mujer,2 - Dolor torácico no anginoso,120,295,0 - No,0 - Normal,157,0 - No,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,0 - Angina típica,112,230,0 - No,1 - anormalidad de onda ST-T,160,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+63,0 - Mujer,0 - Angina típica,150,407,0 - No,0 - Normal,154,0 - No,4.0,1 - Estanco,3,3 - Reversible,0 - Sano
+49,0 - Mujer,1 - Angina atípica,134,271,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+66,0 - Mujer,0 - Angina típica,178,228,1 - Sí,1 - anormalidad de onda ST-T,165,1 - Sí,1.0,1 - Estanco,2,3 - Reversible,0 - Sano
+49,0 - Mujer,1 - Angina atípica,134,271,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+65,0 - Mujer,0 - Angina típica,150,225,0 - No,0 - Normal,114,0 - No,1.0,1 - Estanco,3,3 - Reversible,0 - Sano
+69,1 - Hombre,3 - Asintomático,160,234,1 - Sí,0 - Normal,131,0 - No,0.1,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+47,1 - Hombre,2 - Dolor torácico no anginoso,108,243,0 - No,1 - anormalidad de onda ST-T,152,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+39,0 - Mujer,2 - Dolor torácico no anginoso,138,220,0 - No,1 - anormalidad de onda ST-T,152,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,150,247,0 - No,1 - anormalidad de onda ST-T,171,0 - No,1.5,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,0 - Angina típica,140,261,0 - No,0 - Normal,186,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+69,1 - Hombre,2 - Dolor torácico no anginoso,140,254,0 - No,0 - Normal,146,0 - No,2.0,1 - Estanco,3,3 - Reversible,0 - Sano
+48,1 - Hombre,2 - Dolor torácico no anginoso,124,255,1 - Sí,1 - anormalidad de onda ST-T,175,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,3 - Asintomático,118,186,0 - No,0 - Normal,190,0 - No,0.0,1 - Estanco,0,1 - Normal,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,110,211,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+67,0 - Mujer,2 - Dolor torácico no anginoso,115,564,0 - No,0 - Normal,160,0 - No,1.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+38,1 - Hombre,2 - Dolor torácico no anginoso,138,175,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,1 - Angina atípica,130,219,0 - No,0 - Normal,188,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+47,1 - Hombre,0 - Angina típica,110,275,0 - No,0 - Normal,118,1 - Sí,1.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+61,1 - Hombre,2 - Dolor torácico no anginoso,150,243,1 - Sí,1 - anormalidad de onda ST-T,137,1 - Sí,1.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+67,1 - Hombre,0 - Angina típica,160,286,0 - No,0 - Normal,108,1 - Sí,1.5,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+60,0 - Mujer,3 - Asintomático,150,240,0 - No,1 - anormalidad de onda ST-T,171,0 - No,0.9,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,0 - Mujer,2 - Dolor torácico no anginoso,140,313,0 - No,1 - anormalidad de onda ST-T,133,0 - No,0.2,2 - Descendente,0,3 - Reversible,1 - Enfermo
+58,0 - Mujer,0 - Angina típica,130,197,0 - No,1 - anormalidad de onda ST-T,131,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,2 - Dolor torácico no anginoso,130,214,0 - No,0 - Normal,168,0 - No,2.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+48,1 - Hombre,1 - Angina atípica,110,229,0 - No,1 - anormalidad de onda ST-T,168,0 - No,1.0,0 - Ascendente,0,3 - Reversible,0 - Sano
+57,1 - Hombre,2 - Dolor torácico no anginoso,150,126,1 - Sí,1 - anormalidad de onda ST-T,173,0 - No,0.2,2 - Descendente,1,3 - Reversible,1 - Enfermo
+57,1 - Hombre,0 - Angina típica,165,289,1 - Sí,0 - Normal,124,0 - No,1.0,1 - Estanco,3,3 - Reversible,0 - Sano
+57,1 - Hombre,2 - Dolor torácico no anginoso,128,229,0 - No,0 - Normal,150,0 - No,0.4,1 - Estanco,1,3 - Reversible,0 - Sano
+39,1 - Hombre,2 - Dolor torácico no anginoso,140,321,0 - No,0 - Normal,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,128,216,0 - No,0 - Normal,131,1 - Sí,2.2,1 - Estanco,3,3 - Reversible,0 - Sano
+51,0 - Mujer,0 - Angina típica,130,305,0 - No,1 - anormalidad de onda ST-T,142,1 - Sí,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+63,0 - Mujer,0 - Angina típica,150,407,0 - No,0 - Normal,154,0 - No,4.0,1 - Estanco,3,3 - Reversible,0 - Sano
+51,1 - Hombre,0 - Angina típica,140,298,0 - No,1 - anormalidad de onda ST-T,122,1 - Sí,4.2,1 - Estanco,3,3 - Reversible,0 - Sano
+35,1 - Hombre,1 - Angina atípica,122,192,0 - No,1 - anormalidad de onda ST-T,174,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+65,1 - Hombre,0 - Angina típica,110,248,0 - No,0 - Normal,158,0 - No,0.6,2 - Descendente,2,1 - Normal,0 - Sano
+62,1 - Hombre,1 - Angina atípica,120,281,0 - No,0 - Normal,103,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+41,1 - Hombre,0 - Angina típica,110,172,0 - No,0 - Normal,158,0 - No,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+65,1 - Hombre,0 - Angina típica,135,254,0 - No,0 - Normal,127,0 - No,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+54,0 - Mujer,1 - Angina atípica,132,288,1 - Sí,0 - Normal,159,1 - Sí,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,2 - Dolor torácico no anginoso,150,243,1 - Sí,1 - anormalidad de onda ST-T,137,1 - Sí,1.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+57,0 - Mujer,0 - Angina típica,128,303,0 - No,0 - Normal,159,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,2 - Dolor torácico no anginoso,150,168,0 - No,1 - anormalidad de onda ST-T,174,0 - No,1.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,2 - Dolor torácico no anginoso,125,309,0 - No,1 - anormalidad de onda ST-T,131,1 - Sí,1.8,1 - Estanco,0,3 - Reversible,0 - Sano
+55,1 - Hombre,0 - Angina típica,132,353,0 - No,1 - anormalidad de onda ST-T,132,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+51,1 - Hombre,2 - Dolor torácico no anginoso,125,245,1 - Sí,0 - Normal,166,0 - No,2.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,0 - Angina típica,135,234,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.5,1 - Estanco,0,3 - Reversible,1 - Enfermo
+68,1 - Hombre,2 - Dolor torácico no anginoso,180,274,1 - Sí,0 - Normal,150,1 - Sí,1.6,1 - Estanco,0,3 - Reversible,0 - Sano
+57,1 - Hombre,1 - Angina atípica,154,232,0 - No,0 - Normal,164,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+54,1 - Hombre,0 - Angina típica,140,239,0 - No,1 - anormalidad de onda ST-T,160,0 - No,1.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+46,0 - Mujer,2 - Dolor torácico no anginoso,142,177,0 - No,0 - Normal,160,1 - Sí,1.4,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+71,0 - Mujer,0 - Angina típica,112,149,0 - No,1 - anormalidad de onda ST-T,125,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+35,0 - Mujer,0 - Angina típica,138,183,0 - No,1 - anormalidad de onda ST-T,182,0 - No,1.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+46,0 - Mujer,2 - Dolor torácico no anginoso,142,177,0 - No,0 - Normal,160,1 - Sí,1.4,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+45,0 - Mujer,1 - Angina atípica,130,234,0 - No,0 - Normal,175,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+47,1 - Hombre,2 - Dolor torácico no anginoso,108,243,0 - No,1 - anormalidad de onda ST-T,152,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+44,0 - Mujer,2 - Dolor torácico no anginoso,118,242,0 - No,1 - anormalidad de onda ST-T,149,0 - No,0.3,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,0 - Angina típica,120,260,0 - No,1 - anormalidad de onda ST-T,140,1 - Sí,3.6,1 - Estanco,1,3 - Reversible,0 - Sano
+41,0 - Mujer,1 - Angina atípica,130,204,0 - No,0 - Normal,172,0 - No,1.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+56,0 - Mujer,0 - Angina típica,200,288,1 - Sí,0 - Normal,133,1 - Sí,4.0,0 - Ascendente,2,3 - Reversible,0 - Sano
+55,0 - Mujer,0 - Angina típica,180,327,0 - No,2 - hipertrofia ventricular probable o definitiva,117,1 - Sí,3.4,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+54,0 - Mujer,1 - Angina atípica,132,288,1 - Sí,0 - Normal,159,1 - Sí,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,120,177,0 - No,0 - Normal,120,1 - Sí,2.5,1 - Estanco,0,3 - Reversible,0 - Sano
+44,1 - Hombre,0 - Angina típica,112,290,0 - No,0 - Normal,153,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+54,1 - Hombre,0 - Angina típica,110,206,0 - No,0 - Normal,108,1 - Sí,0.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+44,1 - Hombre,1 - Angina atípica,120,220,0 - No,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+49,1 - Hombre,2 - Dolor torácico no anginoso,120,188,0 - No,1 - anormalidad de onda ST-T,139,0 - No,2.0,1 - Estanco,3,3 - Reversible,0 - Sano
+60,1 - Hombre,0 - Angina típica,130,206,0 - No,0 - Normal,132,1 - Sí,2.4,1 - Estanco,2,3 - Reversible,0 - Sano
+41,0 - Mujer,1 - Angina atípica,105,198,0 - No,1 - anormalidad de onda ST-T,168,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+49,1 - Hombre,2 - Dolor torácico no anginoso,120,188,0 - No,1 - anormalidad de onda ST-T,139,0 - No,2.0,1 - Estanco,3,3 - Reversible,0 - Sano
+61,1 - Hombre,0 - Angina típica,148,203,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+59,1 - Hombre,0 - Angina típica,140,177,0 - No,1 - anormalidad de onda ST-T,162,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+58,1 - Hombre,1 - Angina atípica,125,220,0 - No,1 - anormalidad de onda ST-T,144,0 - No,0.4,1 - Estanco,4,3 - Reversible,1 - Enfermo
+67,0 - Mujer,2 - Dolor torácico no anginoso,152,277,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,0 - Angina típica,148,203,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+58,1 - Hombre,2 - Dolor torácico no anginoso,112,230,0 - No,0 - Normal,165,0 - No,2.5,1 - Estanco,1,3 - Reversible,0 - Sano
+51,0 - Mujer,2 - Dolor torácico no anginoso,130,256,0 - No,0 - Normal,149,0 - No,0.5,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+62,0 - Mujer,0 - Angina típica,160,164,0 - No,0 - Normal,145,0 - No,6.2,0 - Ascendente,3,3 - Reversible,0 - Sano
+62,0 - Mujer,0 - Angina típica,124,209,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,3 - Asintomático,178,270,0 - No,0 - Normal,145,0 - No,4.2,0 - Ascendente,0,3 - Reversible,1 - Enfermo
+69,1 - Hombre,3 - Asintomático,160,234,1 - Sí,0 - Normal,131,0 - No,0.1,1 - Estanco,1,2 - Defecto crónico,1 - Enfermo
+60,0 - Mujer,0 - Angina típica,150,258,0 - No,0 - Normal,157,0 - No,2.6,1 - Estanco,2,3 - Reversible,0 - Sano
+65,0 - Mujer,2 - Dolor torácico no anginoso,155,269,0 - No,1 - anormalidad de onda ST-T,148,0 - No,0.8,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+63,0 - Mujer,0 - Angina típica,124,197,0 - No,1 - anormalidad de onda ST-T,136,1 - Sí,0.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+53,0 - Mujer,0 - Angina típica,138,234,0 - No,0 - Normal,160,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,0 - Mujer,2 - Dolor torácico no anginoso,108,267,0 - No,0 - Normal,167,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+76,0 - Mujer,2 - Dolor torácico no anginoso,140,197,0 - No,2 - hipertrofia ventricular probable o definitiva,116,0 - No,1.1,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+50,0 - Mujer,2 - Dolor torácico no anginoso,120,219,0 - No,1 - anormalidad de onda ST-T,158,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,1 - Angina atípica,120,325,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+46,1 - Hombre,0 - Angina típica,120,249,0 - No,0 - Normal,144,0 - No,0.8,2 - Descendente,0,3 - Reversible,0 - Sano
+64,1 - Hombre,3 - Asintomático,170,227,0 - No,0 - Normal,155,0 - No,0.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,128,259,0 - No,0 - Normal,130,1 - Sí,3.0,1 - Estanco,2,3 - Reversible,0 - Sano
+44,1 - Hombre,2 - Dolor torácico no anginoso,140,235,0 - No,0 - Normal,180,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+62,0 - Mujer,0 - Angina típica,140,394,0 - No,0 - Normal,157,0 - No,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,3 - Asintomático,134,204,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.8,2 - Descendente,2,2 - Defecto crónico,0 - Sano
+54,1 - Hombre,2 - Dolor torácico no anginoso,125,273,0 - No,0 - Normal,152,0 - No,0.5,0 - Ascendente,1,2 - Defecto crónico,1 - Enfermo
+48,1 - Hombre,1 - Angina atípica,110,229,0 - No,1 - anormalidad de onda ST-T,168,0 - No,1.0,0 - Ascendente,0,3 - Reversible,0 - Sano
+70,1 - Hombre,0 - Angina típica,130,322,0 - No,0 - Normal,109,0 - No,2.4,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+67,0 - Mujer,0 - Angina típica,106,223,0 - No,1 - anormalidad de onda ST-T,142,0 - No,0.3,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+51,0 - Mujer,2 - Dolor torácico no anginoso,120,295,0 - No,0 - Normal,157,0 - No,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+68,1 - Hombre,2 - Dolor torácico no anginoso,118,277,0 - No,1 - anormalidad de onda ST-T,151,0 - No,1.0,2 - Descendente,1,3 - Reversible,1 - Enfermo
+69,1 - Hombre,2 - Dolor torácico no anginoso,140,254,0 - No,0 - Normal,146,0 - No,2.0,1 - Estanco,3,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,122,286,0 - No,0 - Normal,116,1 - Sí,3.2,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+43,0 - Mujer,0 - Angina típica,132,341,1 - Sí,0 - Normal,136,1 - Sí,3.0,1 - Estanco,0,3 - Reversible,0 - Sano
+53,1 - Hombre,2 - Dolor torácico no anginoso,130,197,1 - Sí,0 - Normal,152,0 - No,1.2,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,100,234,0 - No,1 - anormalidad de onda ST-T,156,0 - No,0.1,2 - Descendente,1,3 - Reversible,0 - Sano
+67,1 - Hombre,0 - Angina típica,125,254,1 - Sí,1 - anormalidad de onda ST-T,163,0 - No,0.2,1 - Estanco,2,3 - Reversible,0 - Sano
+59,1 - Hombre,0 - Angina típica,140,177,0 - No,1 - anormalidad de onda ST-T,162,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+48,1 - Hombre,0 - Angina típica,122,222,0 - No,0 - Normal,186,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+39,0 - Mujer,2 - Dolor torácico no anginoso,94,199,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+67,1 - Hombre,0 - Angina típica,120,237,0 - No,1 - anormalidad de onda ST-T,71,0 - No,1.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+58,0 - Mujer,0 - Angina típica,130,197,0 - No,1 - anormalidad de onda ST-T,131,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+65,0 - Mujer,2 - Dolor torácico no anginoso,155,269,0 - No,1 - anormalidad de onda ST-T,148,0 - No,0.8,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+42,0 - Mujer,2 - Dolor torácico no anginoso,120,209,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,0 - Angina típica,112,290,0 - No,0 - Normal,153,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+56,1 - Hombre,0 - Angina típica,132,184,0 - No,0 - Normal,105,1 - Sí,2.1,1 - Estanco,1,1 - Normal,0 - Sano
+53,0 - Mujer,0 - Angina típica,138,234,0 - No,0 - Normal,160,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+50,0 - Mujer,0 - Angina típica,110,254,0 - No,0 - Normal,159,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,2 - Dolor torácico no anginoso,130,214,0 - No,0 - Normal,168,0 - No,2.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+54,0 - Mujer,2 - Dolor torácico no anginoso,160,201,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+42,1 - Hombre,2 - Dolor torácico no anginoso,120,240,1 - Sí,1 - anormalidad de onda ST-T,194,0 - No,0.8,0 - Ascendente,0,3 - Reversible,1 - Enfermo
+54,0 - Mujer,2 - Dolor torácico no anginoso,135,304,1 - Sí,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,0 - Angina típica,145,282,0 - No,0 - Normal,142,1 - Sí,2.8,1 - Estanco,2,3 - Reversible,0 - Sano
+34,1 - Hombre,3 - Asintomático,118,182,0 - No,0 - Normal,174,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,0 - Angina típica,112,290,0 - No,0 - Normal,153,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+60,1 - Hombre,0 - Angina típica,125,258,0 - No,0 - Normal,141,1 - Sí,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+43,1 - Hombre,0 - Angina típica,150,247,0 - No,1 - anormalidad de onda ST-T,171,0 - No,1.5,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,3 - Asintomático,152,298,1 - Sí,1 - anormalidad de onda ST-T,178,0 - No,1.2,1 - Estanco,0,3 - Reversible,1 - Enfermo
+70,1 - Hombre,0 - Angina típica,130,322,0 - No,0 - Normal,109,0 - No,2.4,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+62,0 - Mujer,0 - Angina típica,140,394,0 - No,0 - Normal,157,0 - No,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,146,218,0 - No,1 - anormalidad de onda ST-T,105,0 - No,2.0,1 - Estanco,1,3 - Reversible,0 - Sano
+46,1 - Hombre,1 - Angina atípica,101,197,1 - Sí,1 - anormalidad de onda ST-T,156,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+44,1 - Hombre,2 - Dolor torácico no anginoso,140,235,0 - No,0 - Normal,180,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+55,1 - Hombre,1 - Angina atípica,130,262,0 - No,1 - anormalidad de onda ST-T,155,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,120,177,0 - No,0 - Normal,120,1 - Sí,2.5,1 - Estanco,0,3 - Reversible,0 - Sano
+55,1 - Hombre,0 - Angina típica,132,353,0 - No,1 - anormalidad de onda ST-T,132,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+40,1 - Hombre,3 - Asintomático,140,199,0 - No,1 - anormalidad de onda ST-T,178,1 - Sí,1.4,2 - Descendente,0,3 - Reversible,1 - Enfermo
+64,1 - Hombre,2 - Dolor torácico no anginoso,125,309,0 - No,1 - anormalidad de onda ST-T,131,1 - Sí,1.8,1 - Estanco,0,3 - Reversible,0 - Sano
+59,1 - Hombre,0 - Angina típica,164,176,1 - Sí,0 - Normal,90,0 - No,1.0,1 - Estanco,2,1 - Normal,0 - Sano
+61,0 - Mujer,0 - Angina típica,145,307,0 - No,0 - Normal,146,1 - Sí,1.0,1 - Estanco,0,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,122,286,0 - No,0 - Normal,116,1 - Sí,3.2,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+74,0 - Mujer,1 - Angina atípica,120,269,0 - No,0 - Normal,121,1 - Sí,0.2,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+63,0 - Mujer,0 - Angina típica,108,269,0 - No,1 - anormalidad de onda ST-T,169,1 - Sí,1.8,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+70,1 - Hombre,2 - Dolor torácico no anginoso,160,269,0 - No,1 - anormalidad de onda ST-T,112,1 - Sí,2.9,1 - Estanco,1,3 - Reversible,0 - Sano
+63,0 - Mujer,0 - Angina típica,108,269,0 - No,1 - anormalidad de onda ST-T,169,1 - Sí,1.8,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+64,1 - Hombre,0 - Angina típica,145,212,0 - No,0 - Normal,132,0 - No,2.0,1 - Estanco,2,1 - Normal,0 - Sano
+61,1 - Hombre,0 - Angina típica,148,203,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+59,1 - Hombre,1 - Angina atípica,140,221,0 - No,1 - anormalidad de onda ST-T,164,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+38,1 - Hombre,2 - Dolor torácico no anginoso,138,175,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,1 - Angina atípica,120,284,0 - No,0 - Normal,160,0 - No,1.8,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+63,0 - Mujer,1 - Angina atípica,140,195,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+62,0 - Mujer,2 - Dolor torácico no anginoso,130,263,0 - No,1 - anormalidad de onda ST-T,97,0 - No,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+46,1 - Hombre,0 - Angina típica,140,311,0 - No,1 - anormalidad de onda ST-T,120,1 - Sí,1.8,1 - Estanco,2,3 - Reversible,0 - Sano
+58,0 - Mujer,2 - Dolor torácico no anginoso,120,340,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+63,0 - Mujer,1 - Angina atípica,140,195,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+47,1 - Hombre,2 - Dolor torácico no anginoso,130,253,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+71,0 - Mujer,2 - Dolor torácico no anginoso,110,265,1 - Sí,0 - Normal,130,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+66,1 - Hombre,0 - Angina típica,112,212,0 - No,0 - Normal,132,1 - Sí,0.1,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+42,1 - Hombre,0 - Angina típica,136,315,0 - No,1 - anormalidad de onda ST-T,125,1 - Sí,1.8,1 - Estanco,0,1 - Normal,0 - Sano
+64,1 - Hombre,0 - Angina típica,145,212,0 - No,0 - Normal,132,0 - No,2.0,1 - Estanco,2,1 - Normal,0 - Sano
+55,0 - Mujer,0 - Angina típica,180,327,0 - No,2 - hipertrofia ventricular probable o definitiva,117,1 - Sí,3.4,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+43,0 - Mujer,0 - Angina típica,132,341,1 - Sí,0 - Normal,136,1 - Sí,3.0,1 - Estanco,0,3 - Reversible,0 - Sano
+55,0 - Mujer,0 - Angina típica,128,205,0 - No,2 - hipertrofia ventricular probable o definitiva,130,1 - Sí,2.0,1 - Estanco,1,3 - Reversible,0 - Sano
+58,0 - Mujer,0 - Angina típica,170,225,1 - Sí,0 - Normal,146,1 - Sí,2.8,1 - Estanco,2,1 - Normal,0 - Sano
+55,1 - Hombre,0 - Angina típica,140,217,0 - No,1 - anormalidad de onda ST-T,111,1 - Sí,5.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+51,0 - Mujer,0 - Angina típica,130,305,0 - No,1 - anormalidad de onda ST-T,142,1 - Sí,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+50,0 - Mujer,2 - Dolor torácico no anginoso,120,219,0 - No,1 - anormalidad de onda ST-T,158,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,115,303,0 - No,1 - anormalidad de onda ST-T,181,0 - No,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+41,0 - Mujer,1 - Angina atípica,126,306,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+49,1 - Hombre,1 - Angina atípica,130,266,0 - No,1 - anormalidad de onda ST-T,171,0 - No,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+65,1 - Hombre,0 - Angina típica,110,248,0 - No,0 - Normal,158,0 - No,0.6,2 - Descendente,2,1 - Normal,0 - Sano
+57,1 - Hombre,0 - Angina típica,152,274,0 - No,1 - anormalidad de onda ST-T,88,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+48,1 - Hombre,0 - Angina típica,130,256,1 - Sí,0 - Normal,150,1 - Sí,0.0,2 - Descendente,2,3 - Reversible,0 - Sano
+62,0 - Mujer,0 - Angina típica,138,294,1 - Sí,1 - anormalidad de onda ST-T,106,0 - No,1.9,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+61,1 - Hombre,3 - Asintomático,134,234,0 - No,1 - anormalidad de onda ST-T,145,0 - No,2.6,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+59,1 - Hombre,3 - Asintomático,178,270,0 - No,0 - Normal,145,0 - No,4.2,0 - Ascendente,0,3 - Reversible,1 - Enfermo
+69,1 - Hombre,2 - Dolor torácico no anginoso,140,254,0 - No,0 - Normal,146,0 - No,2.0,1 - Estanco,3,3 - Reversible,0 - Sano
+58,1 - Hombre,2 - Dolor torácico no anginoso,132,224,0 - No,0 - Normal,173,0 - No,3.2,2 - Descendente,2,3 - Reversible,0 - Sano
+38,1 - Hombre,3 - Asintomático,120,231,0 - No,1 - anormalidad de onda ST-T,182,1 - Sí,3.8,1 - Estanco,0,3 - Reversible,0 - Sano
+69,0 - Mujer,3 - Asintomático,140,239,0 - No,1 - anormalidad de onda ST-T,151,0 - No,1.8,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+65,1 - Hombre,3 - Asintomático,138,282,1 - Sí,0 - Normal,174,0 - No,1.4,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+45,1 - Hombre,3 - Asintomático,110,264,0 - No,1 - anormalidad de onda ST-T,132,0 - No,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+49,1 - Hombre,1 - Angina atípica,130,266,0 - No,1 - anormalidad de onda ST-T,171,0 - No,0.6,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+45,0 - Mujer,1 - Angina atípica,130,234,0 - No,0 - Normal,175,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,0 - Angina típica,138,166,0 - No,0 - Normal,125,1 - Sí,3.6,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+52,1 - Hombre,0 - Angina típica,125,212,0 - No,1 - anormalidad de onda ST-T,168,0 - No,1.0,2 - Descendente,2,3 - Reversible,0 - Sano
+53,0 - Mujer,0 - Angina típica,130,264,0 - No,0 - Normal,143,0 - No,0.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+59,0 - Mujer,0 - Angina típica,174,249,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,0.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+58,0 - Mujer,2 - Dolor torácico no anginoso,120,340,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+65,1 - Hombre,3 - Asintomático,138,282,1 - Sí,0 - Normal,174,0 - No,1.4,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+58,0 - Mujer,0 - Angina típica,130,197,0 - No,1 - anormalidad de onda ST-T,131,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+46,0 - Mujer,0 - Angina típica,138,243,0 - No,0 - Normal,152,1 - Sí,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+56,0 - Mujer,0 - Angina típica,134,409,0 - No,0 - Normal,150,1 - Sí,1.9,1 - Estanco,2,3 - Reversible,0 - Sano
+64,1 - Hombre,0 - Angina típica,128,263,0 - No,1 - anormalidad de onda ST-T,105,1 - Sí,0.2,1 - Estanco,1,3 - Reversible,1 - Enfermo
+65,1 - Hombre,0 - Angina típica,120,177,0 - No,1 - anormalidad de onda ST-T,140,0 - No,0.4,2 - Descendente,0,3 - Reversible,1 - Enfermo
+44,1 - Hombre,2 - Dolor torácico no anginoso,120,226,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+50,1 - Hombre,0 - Angina típica,150,243,0 - No,0 - Normal,128,0 - No,2.6,1 - Estanco,0,3 - Reversible,0 - Sano
+47,1 - Hombre,2 - Dolor torácico no anginoso,108,243,0 - No,1 - anormalidad de onda ST-T,152,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+64,0 - Mujer,0 - Angina típica,130,303,0 - No,1 - anormalidad de onda ST-T,122,0 - No,2.0,1 - Estanco,2,2 - Defecto crónico,1 - Enfermo
+71,0 - Mujer,0 - Angina típica,112,149,0 - No,1 - anormalidad de onda ST-T,125,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+45,0 - Mujer,1 - Angina atípica,130,234,0 - No,0 - Normal,175,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+62,1 - Hombre,0 - Angina típica,120,267,0 - No,1 - anormalidad de onda ST-T,99,1 - Sí,1.8,1 - Estanco,2,3 - Reversible,0 - Sano
+41,1 - Hombre,1 - Angina atípica,120,157,0 - No,1 - anormalidad de onda ST-T,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+66,0 - Mujer,3 - Asintomático,150,226,0 - No,1 - anormalidad de onda ST-T,114,0 - No,2.6,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,0 - Angina típica,130,283,1 - Sí,0 - Normal,103,1 - Sí,1.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+41,0 - Mujer,1 - Angina atípica,126,306,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,1 - Angina atípica,110,235,0 - No,1 - anormalidad de onda ST-T,153,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,0 - Mujer,1 - Angina atípica,130,236,0 - No,0 - Normal,174,0 - No,0.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+39,0 - Mujer,2 - Dolor torácico no anginoso,138,220,0 - No,1 - anormalidad de onda ST-T,152,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,2 - Dolor torácico no anginoso,125,309,0 - No,1 - anormalidad de onda ST-T,131,1 - Sí,1.8,1 - Estanco,0,3 - Reversible,0 - Sano
+59,1 - Hombre,0 - Angina típica,138,271,0 - No,0 - Normal,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,0 - Angina típica,138,166,0 - No,0 - Normal,125,1 - Sí,3.6,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+58,1 - Hombre,0 - Angina típica,114,318,0 - No,2 - hipertrofia ventricular probable o definitiva,140,0 - No,4.4,0 - Ascendente,3,1 - Normal,0 - Sano
+47,1 - Hombre,0 - Angina típica,112,204,0 - No,1 - anormalidad de onda ST-T,143,0 - No,0.1,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,0 - Mujer,0 - Angina típica,100,248,0 - No,0 - Normal,122,0 - No,1.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+66,0 - Mujer,3 - Asintomático,150,226,0 - No,1 - anormalidad de onda ST-T,114,0 - No,2.6,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+65,0 - Mujer,2 - Dolor torácico no anginoso,140,417,1 - Sí,0 - Normal,157,0 - No,0.8,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+35,1 - Hombre,1 - Angina atípica,122,192,0 - No,1 - anormalidad de onda ST-T,174,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,1 - Angina atípica,124,261,0 - No,1 - anormalidad de onda ST-T,141,0 - No,0.3,2 - Descendente,0,3 - Reversible,0 - Sano
+29,1 - Hombre,1 - Angina atípica,130,204,0 - No,0 - Normal,202,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+66,1 - Hombre,1 - Angina atípica,160,246,0 - No,1 - anormalidad de onda ST-T,120,1 - Sí,0.0,1 - Estanco,3,1 - Normal,0 - Sano
+61,0 - Mujer,0 - Angina típica,130,330,0 - No,0 - Normal,169,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+52,1 - Hombre,0 - Angina típica,125,212,0 - No,1 - anormalidad de onda ST-T,168,0 - No,1.0,2 - Descendente,2,3 - Reversible,0 - Sano
+68,1 - Hombre,2 - Dolor torácico no anginoso,118,277,0 - No,1 - anormalidad de onda ST-T,151,0 - No,1.0,2 - Descendente,1,3 - Reversible,1 - Enfermo
+54,1 - Hombre,2 - Dolor torácico no anginoso,120,258,0 - No,0 - Normal,147,0 - No,0.4,1 - Estanco,0,3 - Reversible,1 - Enfermo
+63,1 - Hombre,0 - Angina típica,130,330,1 - Sí,0 - Normal,132,1 - Sí,1.8,2 - Descendente,3,3 - Reversible,0 - Sano
+58,1 - Hombre,0 - Angina típica,100,234,0 - No,1 - anormalidad de onda ST-T,156,0 - No,0.1,2 - Descendente,1,3 - Reversible,0 - Sano
+60,1 - Hombre,0 - Angina típica,130,253,0 - No,1 - anormalidad de onda ST-T,144,1 - Sí,1.4,2 - Descendente,1,3 - Reversible,0 - Sano
+63,1 - Hombre,0 - Angina típica,130,254,0 - No,0 - Normal,147,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+41,0 - Mujer,2 - Dolor torácico no anginoso,112,268,0 - No,0 - Normal,172,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+68,1 - Hombre,2 - Dolor torácico no anginoso,180,274,1 - Sí,0 - Normal,150,1 - Sí,1.6,1 - Estanco,0,3 - Reversible,0 - Sano
+42,1 - Hombre,1 - Angina atípica,120,295,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,0 - Angina típica,170,326,0 - No,0 - Normal,140,1 - Sí,3.4,0 - Ascendente,0,3 - Reversible,0 - Sano
+59,1 - Hombre,0 - Angina típica,164,176,1 - Sí,0 - Normal,90,0 - No,1.0,1 - Estanco,2,1 - Normal,0 - Sano
+43,1 - Hombre,0 - Angina típica,120,177,0 - No,0 - Normal,120,1 - Sí,2.5,1 - Estanco,0,3 - Reversible,0 - Sano
+60,1 - Hombre,2 - Dolor torácico no anginoso,140,185,0 - No,0 - Normal,155,0 - No,3.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+63,0 - Mujer,0 - Angina típica,150,407,0 - No,0 - Normal,154,0 - No,4.0,1 - Estanco,3,3 - Reversible,0 - Sano
+52,1 - Hombre,0 - Angina típica,128,204,1 - Sí,1 - anormalidad de onda ST-T,156,1 - Sí,1.0,1 - Estanco,0,0,0 - Sano
+58,1 - Hombre,0 - Angina típica,125,300,0 - No,0 - Normal,171,0 - No,0.0,2 - Descendente,2,3 - Reversible,0 - Sano
+56,0 - Mujer,0 - Angina típica,200,288,1 - Sí,0 - Normal,133,1 - Sí,4.0,0 - Ascendente,2,3 - Reversible,0 - Sano
+54,0 - Mujer,2 - Dolor torácico no anginoso,135,304,1 - Sí,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,2 - Dolor torácico no anginoso,105,240,0 - No,0 - Normal,154,1 - Sí,0.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+55,0 - Mujer,1 - Angina atípica,135,250,0 - No,0 - Normal,161,0 - No,1.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+53,1 - Hombre,0 - Angina típica,140,203,1 - Sí,0 - Normal,155,1 - Sí,3.1,0 - Ascendente,0,3 - Reversible,0 - Sano
+63,0 - Mujer,1 - Angina atípica,140,195,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+39,1 - Hombre,0 - Angina típica,118,219,0 - No,1 - anormalidad de onda ST-T,140,0 - No,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+35,1 - Hombre,0 - Angina típica,126,282,0 - No,0 - Normal,156,1 - Sí,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+50,0 - Mujer,2 - Dolor torácico no anginoso,120,219,0 - No,1 - anormalidad de onda ST-T,158,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+67,1 - Hombre,2 - Dolor torácico no anginoso,152,212,0 - No,0 - Normal,150,0 - No,0.8,1 - Estanco,0,3 - Reversible,0 - Sano
+66,1 - Hombre,0 - Angina típica,112,212,0 - No,0 - Normal,132,1 - Sí,0.1,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+35,1 - Hombre,0 - Angina típica,126,282,0 - No,0 - Normal,156,1 - Sí,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+41,1 - Hombre,2 - Dolor torácico no anginoso,130,214,0 - No,0 - Normal,168,0 - No,2.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+35,1 - Hombre,0 - Angina típica,120,198,0 - No,1 - anormalidad de onda ST-T,130,1 - Sí,1.6,1 - Estanco,0,3 - Reversible,0 - Sano
+71,0 - Mujer,1 - Angina atípica,160,302,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.4,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,0 - Angina típica,110,201,0 - No,1 - anormalidad de onda ST-T,126,1 - Sí,1.5,1 - Estanco,0,1 - Normal,1 - Enfermo
+51,1 - Hombre,2 - Dolor torácico no anginoso,94,227,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,128,216,0 - No,0 - Normal,131,1 - Sí,2.2,1 - Estanco,3,3 - Reversible,0 - Sano
+57,1 - Hombre,2 - Dolor torácico no anginoso,128,229,0 - No,0 - Normal,150,0 - No,0.4,1 - Estanco,1,3 - Reversible,0 - Sano
+56,0 - Mujer,1 - Angina atípica,140,294,0 - No,0 - Normal,153,0 - No,1.3,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+60,0 - Mujer,2 - Dolor torácico no anginoso,120,178,1 - Sí,1 - anormalidad de onda ST-T,96,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+45,1 - Hombre,3 - Asintomático,110,264,0 - No,1 - anormalidad de onda ST-T,132,0 - No,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+56,1 - Hombre,1 - Angina atípica,130,221,0 - No,0 - Normal,163,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+35,1 - Hombre,0 - Angina típica,120,198,0 - No,1 - anormalidad de onda ST-T,130,1 - Sí,1.6,1 - Estanco,0,3 - Reversible,0 - Sano
+45,0 - Mujer,1 - Angina atípica,112,160,0 - No,1 - anormalidad de onda ST-T,138,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+66,0 - Mujer,3 - Asintomático,150,226,0 - No,1 - anormalidad de onda ST-T,114,0 - No,2.6,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,3 - Asintomático,125,213,0 - No,0 - Normal,125,1 - Sí,1.4,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+70,1 - Hombre,1 - Angina atípica,156,245,0 - No,0 - Normal,143,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+55,0 - Mujer,0 - Angina típica,128,205,0 - No,2 - hipertrofia ventricular probable o definitiva,130,1 - Sí,2.0,1 - Estanco,1,3 - Reversible,0 - Sano
+56,1 - Hombre,2 - Dolor torácico no anginoso,130,256,1 - Sí,0 - Normal,142,1 - Sí,0.6,1 - Estanco,1,1 - Normal,0 - Sano
+55,0 - Mujer,1 - Angina atípica,135,250,0 - No,0 - Normal,161,0 - No,1.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,0 - Angina típica,108,233,1 - Sí,1 - anormalidad de onda ST-T,147,0 - No,0.1,2 - Descendente,3,3 - Reversible,1 - Enfermo
+64,1 - Hombre,2 - Dolor torácico no anginoso,140,335,0 - No,1 - anormalidad de onda ST-T,158,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+45,1 - Hombre,0 - Angina típica,115,260,0 - No,0 - Normal,185,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+67,0 - Mujer,2 - Dolor torácico no anginoso,152,277,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+68,0 - Mujer,2 - Dolor torácico no anginoso,120,211,0 - No,0 - Normal,115,0 - No,1.5,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+74,0 - Mujer,1 - Angina atípica,120,269,0 - No,0 - Normal,121,1 - Sí,0.2,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+60,0 - Mujer,0 - Angina típica,150,258,0 - No,0 - Normal,157,0 - No,2.6,1 - Estanco,2,3 - Reversible,0 - Sano
+48,1 - Hombre,0 - Angina típica,124,274,0 - No,0 - Normal,166,0 - No,0.5,1 - Estanco,0,3 - Reversible,0 - Sano
+56,1 - Hombre,1 - Angina atípica,130,221,0 - No,0 - Normal,163,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+46,1 - Hombre,0 - Angina típica,140,311,0 - No,1 - anormalidad de onda ST-T,120,1 - Sí,1.8,1 - Estanco,2,3 - Reversible,0 - Sano
+55,0 - Mujer,1 - Angina atípica,135,250,0 - No,0 - Normal,161,0 - No,1.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,1 - Angina atípica,120,220,0 - No,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,0 - Angina típica,112,230,0 - No,1 - anormalidad de onda ST-T,160,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+51,1 - Hombre,2 - Dolor torácico no anginoso,94,227,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,1 - Enfermo
+44,0 - Mujer,2 - Dolor torácico no anginoso,108,141,0 - No,1 - anormalidad de onda ST-T,175,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,0 - Angina típica,128,204,1 - Sí,1 - anormalidad de onda ST-T,156,1 - Sí,1.0,1 - Estanco,0,0,0 - Sano
+50,1 - Hombre,2 - Dolor torácico no anginoso,129,196,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,0 - Angina típica,110,239,0 - No,0 - Normal,142,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+67,1 - Hombre,0 - Angina típica,120,229,0 - No,0 - Normal,129,1 - Sí,2.6,1 - Estanco,2,3 - Reversible,0 - Sano
+58,1 - Hombre,0 - Angina típica,125,300,0 - No,0 - Normal,171,0 - No,0.0,2 - Descendente,2,3 - Reversible,0 - Sano
+52,1 - Hombre,0 - Angina típica,128,255,0 - No,1 - anormalidad de onda ST-T,161,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+44,1 - Hombre,2 - Dolor torácico no anginoso,140,235,0 - No,0 - Normal,180,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,0 - Mujer,2 - Dolor torácico no anginoso,112,268,0 - No,0 - Normal,172,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+63,1 - Hombre,0 - Angina típica,130,330,1 - Sí,0 - Normal,132,1 - Sí,1.8,2 - Descendente,3,3 - Reversible,0 - Sano
+58,1 - Hombre,1 - Angina atípica,125,220,0 - No,1 - anormalidad de onda ST-T,144,0 - No,0.4,1 - Estanco,4,3 - Reversible,1 - Enfermo
+60,0 - Mujer,2 - Dolor torácico no anginoso,102,318,0 - No,1 - anormalidad de onda ST-T,160,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,2 - Dolor torácico no anginoso,100,222,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,2 - Dolor torácico no anginoso,140,335,0 - No,1 - anormalidad de onda ST-T,158,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+60,1 - Hombre,0 - Angina típica,117,230,1 - Sí,1 - anormalidad de onda ST-T,160,1 - Sí,1.4,2 - Descendente,2,3 - Reversible,0 - Sano
+44,1 - Hombre,2 - Dolor torácico no anginoso,120,226,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,1 - Angina atípica,125,220,0 - No,1 - anormalidad de onda ST-T,144,0 - No,0.4,1 - Estanco,4,3 - Reversible,1 - Enfermo
+55,1 - Hombre,1 - Angina atípica,130,262,0 - No,1 - anormalidad de onda ST-T,155,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+65,0 - Mujer,2 - Dolor torácico no anginoso,160,360,0 - No,0 - Normal,151,0 - No,0.8,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+48,1 - Hombre,1 - Angina atípica,130,245,0 - No,0 - Normal,180,0 - No,0.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+65,1 - Hombre,0 - Angina típica,120,177,0 - No,1 - anormalidad de onda ST-T,140,0 - No,0.4,2 - Descendente,0,3 - Reversible,1 - Enfermo
+51,0 - Mujer,2 - Dolor torácico no anginoso,130,256,0 - No,0 - Normal,149,0 - No,0.5,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+48,1 - Hombre,2 - Dolor torácico no anginoso,124,255,1 - Sí,1 - anormalidad de onda ST-T,175,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,0 - Angina típica,120,246,0 - No,0 - Normal,96,1 - Sí,2.2,0 - Ascendente,1,2 - Defecto crónico,0 - Sano
+66,1 - Hombre,0 - Angina típica,160,228,0 - No,0 - Normal,138,0 - No,2.3,2 - Descendente,0,1 - Normal,1 - Enfermo
+46,0 - Mujer,1 - Angina atípica,105,204,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+61,0 - Mujer,0 - Angina típica,130,330,0 - No,0 - Normal,169,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+57,1 - Hombre,0 - Angina típica,150,276,0 - No,0 - Normal,112,1 - Sí,0.6,1 - Estanco,1,1 - Normal,0 - Sano
+49,0 - Mujer,0 - Angina típica,130,269,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,1 - Angina atípica,130,221,0 - No,0 - Normal,163,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+58,0 - Mujer,3 - Asintomático,150,283,1 - Sí,0 - Normal,162,0 - No,1.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+63,1 - Hombre,0 - Angina típica,140,187,0 - No,0 - Normal,144,1 - Sí,4.0,2 - Descendente,2,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,110,335,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,3.0,1 - Estanco,1,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,110,335,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,3.0,1 - Estanco,1,3 - Reversible,0 - Sano
+68,1 - Hombre,0 - Angina típica,144,193,1 - Sí,1 - anormalidad de onda ST-T,141,0 - No,3.4,1 - Estanco,2,3 - Reversible,0 - Sano
+46,1 - Hombre,1 - Angina atípica,101,197,1 - Sí,1 - anormalidad de onda ST-T,156,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+71,0 - Mujer,2 - Dolor torácico no anginoso,110,265,1 - Sí,0 - Normal,130,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,1 - Angina atípica,135,203,0 - No,1 - anormalidad de onda ST-T,132,0 - No,0.0,1 - Estanco,0,1 - Normal,1 - Enfermo
+45,0 - Mujer,0 - Angina típica,138,236,0 - No,0 - Normal,152,1 - Sí,0.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+62,0 - Mujer,0 - Angina típica,150,244,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,1.4,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+65,0 - Mujer,0 - Angina típica,150,225,0 - No,0 - Normal,114,0 - No,1.0,1 - Estanco,3,3 - Reversible,0 - Sano
+48,0 - Mujer,2 - Dolor torácico no anginoso,130,275,0 - No,1 - anormalidad de onda ST-T,139,0 - No,0.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,2 - Dolor torácico no anginoso,100,222,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+61,0 - Mujer,0 - Angina típica,145,307,0 - No,0 - Normal,146,1 - Sí,1.0,1 - Estanco,0,3 - Reversible,0 - Sano
+53,1 - Hombre,0 - Angina típica,123,282,0 - No,1 - anormalidad de onda ST-T,95,1 - Sí,2.0,1 - Estanco,2,3 - Reversible,0 - Sano
+59,1 - Hombre,3 - Asintomático,134,204,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.8,2 - Descendente,2,2 - Defecto crónico,0 - Sano
+34,0 - Mujer,1 - Angina atípica,118,210,0 - No,1 - anormalidad de onda ST-T,192,0 - No,0.7,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,0 - Angina típica,120,169,0 - No,1 - anormalidad de onda ST-T,144,1 - Sí,2.8,0 - Ascendente,0,1 - Normal,0 - Sano
+58,1 - Hombre,0 - Angina típica,146,218,0 - No,1 - anormalidad de onda ST-T,105,0 - No,2.0,1 - Estanco,1,3 - Reversible,0 - Sano
+64,0 - Mujer,0 - Angina típica,130,303,0 - No,1 - anormalidad de onda ST-T,122,0 - No,2.0,1 - Estanco,2,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,1 - Angina atípica,120,240,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,2 - Dolor torácico no anginoso,150,232,0 - No,0 - Normal,165,0 - No,1.6,2 - Descendente,0,3 - Reversible,1 - Enfermo
+55,1 - Hombre,0 - Angina típica,160,289,0 - No,0 - Normal,145,1 - Sí,0.8,1 - Estanco,1,3 - Reversible,0 - Sano
+67,1 - Hombre,0 - Angina típica,125,254,1 - Sí,1 - anormalidad de onda ST-T,163,0 - No,0.2,1 - Estanco,2,3 - Reversible,0 - Sano
+51,1 - Hombre,0 - Angina típica,140,298,0 - No,1 - anormalidad de onda ST-T,122,1 - Sí,4.2,1 - Estanco,3,3 - Reversible,0 - Sano
+62,0 - Mujer,0 - Angina típica,138,294,1 - Sí,1 - anormalidad de onda ST-T,106,0 - No,1.9,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+62,1 - Hombre,1 - Angina atípica,120,281,0 - No,0 - Normal,103,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,110,239,0 - No,1 - anormalidad de onda ST-T,126,1 - Sí,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,110,239,0 - No,1 - anormalidad de onda ST-T,126,1 - Sí,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+68,1 - Hombre,0 - Angina típica,144,193,1 - Sí,1 - anormalidad de onda ST-T,141,0 - No,3.4,1 - Estanco,2,3 - Reversible,0 - Sano
+60,0 - Mujer,2 - Dolor torácico no anginoso,120,178,1 - Sí,1 - anormalidad de onda ST-T,96,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,3 - Asintomático,134,234,0 - No,1 - anormalidad de onda ST-T,145,0 - No,2.6,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+62,1 - Hombre,1 - Angina atípica,128,208,1 - Sí,0 - Normal,140,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,1 - Angina atípica,135,203,0 - No,1 - anormalidad de onda ST-T,132,0 - No,0.0,1 - Estanco,0,1 - Normal,1 - Enfermo
+65,0 - Mujer,0 - Angina típica,150,225,0 - No,0 - Normal,114,0 - No,1.0,1 - Estanco,3,3 - Reversible,0 - Sano
+59,1 - Hombre,3 - Asintomático,170,288,0 - No,0 - Normal,159,0 - No,0.2,1 - Estanco,0,3 - Reversible,0 - Sano
+43,1 - Hombre,0 - Angina típica,115,303,0 - No,1 - anormalidad de onda ST-T,181,0 - No,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+67,1 - Hombre,0 - Angina típica,120,229,0 - No,0 - Normal,129,1 - Sí,2.6,1 - Estanco,2,3 - Reversible,0 - Sano
+63,1 - Hombre,3 - Asintomático,145,233,1 - Sí,0 - Normal,150,0 - No,2.3,0 - Ascendente,0,1 - Normal,1 - Enfermo
+63,0 - Mujer,0 - Angina típica,124,197,0 - No,1 - anormalidad de onda ST-T,136,1 - Sí,0.0,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+52,1 - Hombre,0 - Angina típica,112,230,0 - No,1 - anormalidad de onda ST-T,160,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+58,0 - Mujer,0 - Angina típica,130,197,0 - No,1 - anormalidad de onda ST-T,131,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+53,1 - Hombre,0 - Angina típica,142,226,0 - No,0 - Normal,111,1 - Sí,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+57,1 - Hombre,0 - Angina típica,150,276,0 - No,0 - Normal,112,1 - Sí,0.6,1 - Estanco,1,1 - Normal,0 - Sano
+44,1 - Hombre,2 - Dolor torácico no anginoso,130,233,0 - No,1 - anormalidad de onda ST-T,179,1 - Sí,0.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,2 - Dolor torácico no anginoso,94,227,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,1 - Enfermo
+54,0 - Mujer,2 - Dolor torácico no anginoso,110,214,0 - No,1 - anormalidad de onda ST-T,158,0 - No,1.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+40,1 - Hombre,0 - Angina típica,110,167,0 - No,0 - Normal,114,1 - Sí,2.0,1 - Estanco,0,3 - Reversible,0 - Sano
+57,1 - Hombre,1 - Angina atípica,124,261,0 - No,1 - anormalidad de onda ST-T,141,0 - No,0.3,2 - Descendente,0,3 - Reversible,0 - Sano
+62,0 - Mujer,0 - Angina típica,140,268,0 - No,0 - Normal,160,0 - No,3.6,0 - Ascendente,2,2 - Defecto crónico,0 - Sano
+53,1 - Hombre,0 - Angina típica,140,203,1 - Sí,0 - Normal,155,1 - Sí,3.1,0 - Ascendente,0,3 - Reversible,0 - Sano
+62,1 - Hombre,1 - Angina atípica,128,208,1 - Sí,0 - Normal,140,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,2 - Dolor torácico no anginoso,105,240,0 - No,0 - Normal,154,1 - Sí,0.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+70,1 - Hombre,1 - Angina atípica,156,245,0 - No,0 - Normal,143,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+45,1 - Hombre,0 - Angina típica,115,260,0 - No,0 - Normal,185,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+42,1 - Hombre,3 - Asintomático,148,244,0 - No,0 - Normal,178,0 - No,0.8,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+58,0 - Mujer,0 - Angina típica,170,225,1 - Sí,0 - Normal,146,1 - Sí,2.8,1 - Estanco,2,1 - Normal,0 - Sano
+61,1 - Hombre,0 - Angina típica,140,207,0 - No,0 - Normal,138,1 - Sí,1.9,2 - Descendente,1,3 - Reversible,0 - Sano
+62,0 - Mujer,0 - Angina típica,140,268,0 - No,0 - Normal,160,0 - No,3.6,0 - Ascendente,2,2 - Defecto crónico,0 - Sano
+60,1 - Hombre,0 - Angina típica,130,253,0 - No,1 - anormalidad de onda ST-T,144,1 - Sí,1.4,2 - Descendente,1,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,140,239,0 - No,1 - anormalidad de onda ST-T,160,0 - No,1.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,0 - Angina típica,138,166,0 - No,0 - Normal,125,1 - Sí,3.6,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+63,0 - Mujer,2 - Dolor torácico no anginoso,135,252,0 - No,0 - Normal,172,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+42,1 - Hombre,2 - Dolor torácico no anginoso,130,180,0 - No,1 - anormalidad de onda ST-T,150,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,2 - Dolor torácico no anginoso,128,229,0 - No,0 - Normal,150,0 - No,0.4,1 - Estanco,1,3 - Reversible,0 - Sano
+44,1 - Hombre,2 - Dolor torácico no anginoso,130,233,0 - No,1 - anormalidad de onda ST-T,179,1 - Sí,0.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,0 - Angina típica,124,266,0 - No,0 - Normal,109,1 - Sí,2.2,1 - Estanco,1,3 - Reversible,0 - Sano
+51,1 - Hombre,2 - Dolor torácico no anginoso,100,222,0 - No,1 - anormalidad de onda ST-T,143,1 - Sí,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,1 - Angina atípica,125,220,0 - No,1 - anormalidad de onda ST-T,144,0 - No,0.4,1 - Estanco,4,3 - Reversible,1 - Enfermo
+68,1 - Hombre,2 - Dolor torácico no anginoso,118,277,0 - No,1 - anormalidad de onda ST-T,151,0 - No,1.0,2 - Descendente,1,3 - Reversible,1 - Enfermo
+55,1 - Hombre,0 - Angina típica,140,217,0 - No,1 - anormalidad de onda ST-T,111,1 - Sí,5.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+42,1 - Hombre,0 - Angina típica,136,315,0 - No,1 - anormalidad de onda ST-T,125,1 - Sí,1.8,1 - Estanco,0,1 - Normal,0 - Sano
+49,1 - Hombre,2 - Dolor torácico no anginoso,118,149,0 - No,0 - Normal,126,0 - No,0.8,2 - Descendente,3,2 - Defecto crónico,0 - Sano
+53,0 - Mujer,0 - Angina típica,138,234,0 - No,0 - Normal,160,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,2 - Dolor torácico no anginoso,172,199,1 - Sí,1 - anormalidad de onda ST-T,162,0 - No,0.5,2 - Descendente,0,3 - Reversible,1 - Enfermo
+51,1 - Hombre,3 - Asintomático,125,213,0 - No,0 - Normal,125,1 - Sí,1.4,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,0 - Angina típica,140,261,0 - No,0 - Normal,186,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+70,1 - Hombre,0 - Angina típica,145,174,0 - No,1 - anormalidad de onda ST-T,125,1 - Sí,2.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+35,0 - Mujer,0 - Angina típica,138,183,0 - No,1 - anormalidad de onda ST-T,182,0 - No,1.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,2 - Dolor torácico no anginoso,112,230,0 - No,0 - Normal,165,0 - No,2.5,1 - Estanco,1,3 - Reversible,0 - Sano
+59,1 - Hombre,3 - Asintomático,160,273,0 - No,0 - Normal,125,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+60,1 - Hombre,0 - Angina típica,140,293,0 - No,0 - Normal,170,0 - No,1.2,1 - Estanco,2,3 - Reversible,0 - Sano
+56,1 - Hombre,0 - Angina típica,132,184,0 - No,0 - Normal,105,1 - Sí,2.1,1 - Estanco,1,1 - Normal,0 - Sano
+35,0 - Mujer,0 - Angina típica,138,183,0 - No,1 - anormalidad de onda ST-T,182,0 - No,1.4,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+61,1 - Hombre,0 - Angina típica,138,166,0 - No,0 - Normal,125,1 - Sí,3.6,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+58,0 - Mujer,3 - Asintomático,150,283,1 - Sí,0 - Normal,162,0 - No,1.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,0 - Angina típica,128,255,0 - No,1 - anormalidad de onda ST-T,161,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+58,1 - Hombre,1 - Angina atípica,120,284,0 - No,0 - Normal,160,0 - No,1.8,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+37,1 - Hombre,2 - Dolor torácico no anginoso,130,250,0 - No,1 - anormalidad de onda ST-T,187,0 - No,3.5,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,0 - Angina típica,128,255,0 - No,1 - anormalidad de onda ST-T,161,1 - Sí,0.0,2 - Descendente,1,3 - Reversible,0 - Sano
+67,1 - Hombre,0 - Angina típica,120,229,0 - No,0 - Normal,129,1 - Sí,2.6,1 - Estanco,2,3 - Reversible,0 - Sano
+65,1 - Hombre,3 - Asintomático,138,282,1 - Sí,0 - Normal,174,0 - No,1.4,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+46,1 - Hombre,1 - Angina atípica,101,197,1 - Sí,1 - anormalidad de onda ST-T,156,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+68,0 - Mujer,2 - Dolor torácico no anginoso,120,211,0 - No,0 - Normal,115,0 - No,1.5,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,115,303,0 - No,1 - anormalidad de onda ST-T,181,0 - No,1.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+68,0 - Mujer,2 - Dolor torácico no anginoso,120,211,0 - No,0 - Normal,115,0 - No,1.5,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+51,1 - Hombre,0 - Angina típica,140,299,0 - No,1 - anormalidad de onda ST-T,173,1 - Sí,1.6,2 - Descendente,0,3 - Reversible,0 - Sano
+52,1 - Hombre,0 - Angina típica,112,230,0 - No,1 - anormalidad de onda ST-T,160,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+64,1 - Hombre,2 - Dolor torácico no anginoso,140,335,0 - No,1 - anormalidad de onda ST-T,158,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+59,1 - Hombre,3 - Asintomático,170,288,0 - No,0 - Normal,159,0 - No,0.2,1 - Estanco,0,3 - Reversible,0 - Sano
+52,1 - Hombre,0 - Angina típica,125,212,0 - No,1 - anormalidad de onda ST-T,168,0 - No,1.0,2 - Descendente,2,3 - Reversible,0 - Sano
+59,1 - Hombre,3 - Asintomático,160,273,0 - No,0 - Normal,125,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+60,0 - Mujer,3 - Asintomático,150,240,0 - No,1 - anormalidad de onda ST-T,171,0 - No,0.9,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,2 - Dolor torácico no anginoso,112,250,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+41,1 - Hombre,1 - Angina atípica,110,235,0 - No,1 - anormalidad de onda ST-T,153,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,1 - Angina atípica,120,240,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,1 - Angina atípica,120,236,0 - No,1 - anormalidad de onda ST-T,178,0 - No,0.8,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+48,0 - Mujer,2 - Dolor torácico no anginoso,130,275,0 - No,1 - anormalidad de onda ST-T,139,0 - No,0.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+39,1 - Hombre,2 - Dolor torácico no anginoso,140,321,0 - No,0 - Normal,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,3 - Asintomático,170,227,0 - No,0 - Normal,155,0 - No,0.6,1 - Estanco,0,3 - Reversible,1 - Enfermo
+57,1 - Hombre,0 - Angina típica,140,192,0 - No,1 - anormalidad de onda ST-T,148,0 - No,0.4,1 - Estanco,0,1 - Normal,1 - Enfermo
+59,1 - Hombre,3 - Asintomático,160,273,0 - No,0 - Normal,125,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+60,1 - Hombre,0 - Angina típica,130,206,0 - No,0 - Normal,132,1 - Sí,2.4,1 - Estanco,2,3 - Reversible,0 - Sano
+61,1 - Hombre,0 - Angina típica,140,207,0 - No,0 - Normal,138,1 - Sí,1.9,2 - Descendente,1,3 - Reversible,0 - Sano
+43,0 - Mujer,2 - Dolor torácico no anginoso,122,213,0 - No,1 - anormalidad de onda ST-T,165,0 - No,0.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,0 - Angina típica,120,188,0 - No,1 - anormalidad de onda ST-T,113,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+59,1 - Hombre,0 - Angina típica,138,271,0 - No,0 - Normal,182,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+57,1 - Hombre,0 - Angina típica,132,207,0 - No,1 - anormalidad de onda ST-T,168,1 - Sí,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+57,1 - Hombre,1 - Angina atípica,154,232,0 - No,0 - Normal,164,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+57,1 - Hombre,0 - Angina típica,130,131,0 - No,1 - anormalidad de onda ST-T,115,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+48,1 - Hombre,0 - Angina típica,124,274,0 - No,0 - Normal,166,0 - No,0.5,1 - Estanco,0,3 - Reversible,0 - Sano
+70,1 - Hombre,0 - Angina típica,145,174,0 - No,1 - anormalidad de onda ST-T,125,1 - Sí,2.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,165,289,1 - Sí,0 - Normal,124,0 - No,1.0,1 - Estanco,3,3 - Reversible,0 - Sano
+61,1 - Hombre,0 - Angina típica,120,260,0 - No,1 - anormalidad de onda ST-T,140,1 - Sí,3.6,1 - Estanco,1,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,110,201,0 - No,1 - anormalidad de onda ST-T,126,1 - Sí,1.5,1 - Estanco,0,1 - Normal,1 - Enfermo
+60,0 - Mujer,0 - Angina típica,150,258,0 - No,0 - Normal,157,0 - No,2.6,1 - Estanco,2,3 - Reversible,0 - Sano
+63,0 - Mujer,0 - Angina típica,150,407,0 - No,0 - Normal,154,0 - No,4.0,1 - Estanco,3,3 - Reversible,0 - Sano
+55,0 - Mujer,0 - Angina típica,128,205,0 - No,2 - hipertrofia ventricular probable o definitiva,130,1 - Sí,2.0,1 - Estanco,1,3 - Reversible,0 - Sano
+64,0 - Mujer,0 - Angina típica,180,325,0 - No,1 - anormalidad de onda ST-T,154,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,0 - Angina típica,110,239,0 - No,1 - anormalidad de onda ST-T,126,1 - Sí,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+52,1 - Hombre,0 - Angina típica,128,204,1 - Sí,1 - anormalidad de onda ST-T,156,1 - Sí,1.0,1 - Estanco,0,0,0 - Sano
+51,1 - Hombre,0 - Angina típica,140,299,0 - No,1 - anormalidad de onda ST-T,173,1 - Sí,1.6,2 - Descendente,0,3 - Reversible,0 - Sano
+62,0 - Mujer,2 - Dolor torácico no anginoso,130,263,0 - No,1 - anormalidad de onda ST-T,97,0 - No,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+59,1 - Hombre,3 - Asintomático,178,270,0 - No,0 - Normal,145,0 - No,4.2,0 - Ascendente,0,3 - Reversible,1 - Enfermo
+52,1 - Hombre,1 - Angina atípica,134,201,0 - No,1 - anormalidad de onda ST-T,158,0 - No,0.8,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+42,0 - Mujer,0 - Angina típica,102,265,0 - No,0 - Normal,122,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,0 - Angina típica,135,234,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.5,1 - Estanco,0,3 - Reversible,1 - Enfermo
+61,1 - Hombre,3 - Asintomático,134,234,0 - No,1 - anormalidad de onda ST-T,145,0 - No,2.6,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+42,0 - Mujer,0 - Angina típica,102,265,0 - No,0 - Normal,122,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+62,0 - Mujer,0 - Angina típica,140,268,0 - No,0 - Normal,160,0 - No,3.6,0 - Ascendente,2,2 - Defecto crónico,0 - Sano
+59,1 - Hombre,2 - Dolor torácico no anginoso,126,218,1 - Sí,1 - anormalidad de onda ST-T,134,0 - No,2.2,1 - Estanco,1,1 - Normal,0 - Sano
+55,1 - Hombre,1 - Angina atípica,130,262,0 - No,1 - anormalidad de onda ST-T,155,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,0 - Angina típica,120,246,0 - No,0 - Normal,96,1 - Sí,2.2,0 - Ascendente,1,2 - Defecto crónico,0 - Sano
+42,1 - Hombre,0 - Angina típica,140,226,0 - No,1 - anormalidad de onda ST-T,178,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+50,0 - Mujer,1 - Angina atípica,120,244,0 - No,1 - anormalidad de onda ST-T,162,0 - No,1.1,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+62,1 - Hombre,0 - Angina típica,120,267,0 - No,1 - anormalidad de onda ST-T,99,1 - Sí,1.8,1 - Estanco,2,3 - Reversible,0 - Sano
+50,1 - Hombre,0 - Angina típica,144,200,0 - No,0 - Normal,126,1 - Sí,0.9,1 - Estanco,0,3 - Reversible,0 - Sano
+50,1 - Hombre,2 - Dolor torácico no anginoso,140,233,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.6,1 - Estanco,1,3 - Reversible,0 - Sano
+58,0 - Mujer,1 - Angina atípica,136,319,1 - Sí,0 - Normal,152,0 - No,0.0,2 - Descendente,2,2 - Defecto crónico,0 - Sano
+35,1 - Hombre,0 - Angina típica,120,198,0 - No,1 - anormalidad de onda ST-T,130,1 - Sí,1.6,1 - Estanco,0,3 - Reversible,0 - Sano
+45,1 - Hombre,0 - Angina típica,104,208,0 - No,0 - Normal,148,1 - Sí,3.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+66,1 - Hombre,0 - Angina típica,112,212,0 - No,0 - Normal,132,1 - Sí,0.1,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+46,1 - Hombre,0 - Angina típica,120,249,0 - No,0 - Normal,144,0 - No,0.8,2 - Descendente,0,3 - Reversible,0 - Sano
+65,1 - Hombre,0 - Angina típica,135,254,0 - No,0 - Normal,127,0 - No,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+47,1 - Hombre,2 - Dolor torácico no anginoso,130,253,0 - No,1 - anormalidad de onda ST-T,179,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,3 - Asintomático,134,204,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.8,2 - Descendente,2,2 - Defecto crónico,0 - Sano
+38,1 - Hombre,3 - Asintomático,120,231,0 - No,1 - anormalidad de onda ST-T,182,1 - Sí,3.8,1 - Estanco,0,3 - Reversible,0 - Sano
+39,1 - Hombre,0 - Angina típica,118,219,0 - No,1 - anormalidad de onda ST-T,140,0 - No,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+58,1 - Hombre,0 - Angina típica,146,218,0 - No,1 - anormalidad de onda ST-T,105,0 - No,2.0,1 - Estanco,1,3 - Reversible,0 - Sano
+44,1 - Hombre,1 - Angina atípica,120,263,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+54,1 - Hombre,0 - Angina típica,140,239,0 - No,1 - anormalidad de onda ST-T,160,0 - No,1.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+61,0 - Mujer,0 - Angina típica,130,330,0 - No,0 - Normal,169,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+57,1 - Hombre,0 - Angina típica,130,131,0 - No,1 - anormalidad de onda ST-T,115,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,110,206,0 - No,0 - Normal,108,1 - Sí,0.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+42,1 - Hombre,2 - Dolor torácico no anginoso,120,240,1 - Sí,1 - anormalidad de onda ST-T,194,0 - No,0.8,0 - Ascendente,0,3 - Reversible,1 - Enfermo
+54,1 - Hombre,0 - Angina típica,124,266,0 - No,0 - Normal,109,1 - Sí,2.2,1 - Estanco,1,3 - Reversible,0 - Sano
+60,1 - Hombre,0 - Angina típica,130,206,0 - No,0 - Normal,132,1 - Sí,2.4,1 - Estanco,2,3 - Reversible,0 - Sano
+65,1 - Hombre,0 - Angina típica,135,254,0 - No,0 - Normal,127,0 - No,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+40,1 - Hombre,0 - Angina típica,152,223,0 - No,1 - anormalidad de onda ST-T,181,0 - No,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+51,0 - Mujer,2 - Dolor torácico no anginoso,140,308,0 - No,0 - Normal,142,0 - No,1.5,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+38,1 - Hombre,3 - Asintomático,120,231,0 - No,1 - anormalidad de onda ST-T,182,1 - Sí,3.8,1 - Estanco,0,3 - Reversible,0 - Sano
+42,1 - Hombre,2 - Dolor torácico no anginoso,130,180,0 - No,1 - anormalidad de onda ST-T,150,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,1 - Angina atípica,120,240,0 - No,1 - anormalidad de onda ST-T,169,0 - No,0.0,0 - Ascendente,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,2 - Dolor torácico no anginoso,130,315,0 - No,1 - anormalidad de onda ST-T,162,0 - No,1.9,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,2 - Dolor torácico no anginoso,140,335,0 - No,1 - anormalidad de onda ST-T,158,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,0 - Sano
+53,1 - Hombre,0 - Angina típica,142,226,0 - No,0 - Normal,111,1 - Sí,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+49,0 - Mujer,1 - Angina atípica,134,271,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+57,0 - Mujer,0 - Angina típica,140,241,0 - No,1 - anormalidad de onda ST-T,123,1 - Sí,0.2,1 - Estanco,0,3 - Reversible,0 - Sano
+52,0 - Mujer,2 - Dolor torácico no anginoso,136,196,0 - No,0 - Normal,169,0 - No,0.1,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+69,0 - Mujer,3 - Asintomático,140,239,0 - No,1 - anormalidad de onda ST-T,151,0 - No,1.8,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+65,1 - Hombre,0 - Angina típica,120,177,0 - No,1 - anormalidad de onda ST-T,140,0 - No,0.4,2 - Descendente,0,3 - Reversible,1 - Enfermo
+66,0 - Mujer,0 - Angina típica,178,228,1 - Sí,1 - anormalidad de onda ST-T,165,1 - Sí,1.0,1 - Estanco,2,3 - Reversible,0 - Sano
+56,1 - Hombre,3 - Asintomático,120,193,0 - No,0 - Normal,162,0 - No,1.9,1 - Estanco,0,3 - Reversible,1 - Enfermo
+67,0 - Mujer,2 - Dolor torácico no anginoso,152,277,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+54,0 - Mujer,2 - Dolor torácico no anginoso,160,201,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+70,1 - Hombre,0 - Angina típica,145,174,0 - No,1 - anormalidad de onda ST-T,125,1 - Sí,2.6,0 - Ascendente,0,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,132,207,0 - No,1 - anormalidad de onda ST-T,168,1 - Sí,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+67,1 - Hombre,0 - Angina típica,160,286,0 - No,0 - Normal,108,1 - Sí,1.5,1 - Estanco,3,2 - Defecto crónico,0 - Sano
+62,0 - Mujer,2 - Dolor torácico no anginoso,130,263,0 - No,1 - anormalidad de onda ST-T,97,0 - No,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+54,0 - Mujer,2 - Dolor torácico no anginoso,135,304,1 - Sí,1 - anormalidad de onda ST-T,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+45,0 - Mujer,0 - Angina típica,138,236,0 - No,0 - Normal,152,1 - Sí,0.2,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+53,0 - Mujer,0 - Angina típica,130,264,0 - No,0 - Normal,143,0 - No,0.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+62,1 - Hombre,2 - Dolor torácico no anginoso,130,231,0 - No,1 - anormalidad de onda ST-T,146,0 - No,1.8,1 - Estanco,3,3 - Reversible,1 - Enfermo
+49,0 - Mujer,0 - Angina típica,130,269,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+50,1 - Hombre,2 - Dolor torácico no anginoso,140,233,0 - No,1 - anormalidad de onda ST-T,163,0 - No,0.6,1 - Estanco,1,3 - Reversible,0 - Sano
+65,0 - Mujer,2 - Dolor torácico no anginoso,140,417,1 - Sí,0 - Normal,157,0 - No,0.8,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+69,0 - Mujer,3 - Asintomático,140,239,0 - No,1 - anormalidad de onda ST-T,151,0 - No,1.8,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+52,0 - Mujer,2 - Dolor torácico no anginoso,136,196,0 - No,0 - Normal,169,0 - No,0.1,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+58,0 - Mujer,0 - Angina típica,100,248,0 - No,0 - Normal,122,0 - No,1.0,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,0 - Angina típica,108,233,1 - Sí,1 - anormalidad de onda ST-T,147,0 - No,0.1,2 - Descendente,3,3 - Reversible,1 - Enfermo
+57,0 - Mujer,0 - Angina típica,140,241,0 - No,1 - anormalidad de onda ST-T,123,1 - Sí,0.2,1 - Estanco,0,3 - Reversible,0 - Sano
+44,0 - Mujer,2 - Dolor torácico no anginoso,108,141,0 - No,1 - anormalidad de onda ST-T,175,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+76,0 - Mujer,2 - Dolor torácico no anginoso,140,197,0 - No,2 - hipertrofia ventricular probable o definitiva,116,0 - No,1.1,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,128,259,0 - No,0 - Normal,130,1 - Sí,3.0,1 - Estanco,2,3 - Reversible,0 - Sano
+60,0 - Mujer,2 - Dolor torácico no anginoso,120,178,1 - Sí,1 - anormalidad de onda ST-T,96,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+53,1 - Hombre,0 - Angina típica,140,203,1 - Sí,0 - Normal,155,1 - Sí,3.1,0 - Ascendente,0,3 - Reversible,0 - Sano
+52,1 - Hombre,1 - Angina atípica,120,325,0 - No,1 - anormalidad de onda ST-T,172,0 - No,0.2,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+38,1 - Hombre,2 - Dolor torácico no anginoso,138,175,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,4,2 - Defecto crónico,1 - Enfermo
+52,1 - Hombre,2 - Dolor torácico no anginoso,172,199,1 - Sí,1 - anormalidad de onda ST-T,162,0 - No,0.5,2 - Descendente,0,3 - Reversible,1 - Enfermo
+52,1 - Hombre,3 - Asintomático,118,186,0 - No,0 - Normal,190,0 - No,0.0,1 - Estanco,0,1 - Normal,1 - Enfermo
+51,1 - Hombre,2 - Dolor torácico no anginoso,125,245,1 - Sí,0 - Normal,166,0 - No,2.4,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,110,211,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+39,1 - Hombre,0 - Angina típica,118,219,0 - No,1 - anormalidad de onda ST-T,140,0 - No,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+63,0 - Mujer,0 - Angina típica,108,269,0 - No,1 - anormalidad de onda ST-T,169,1 - Sí,1.8,1 - Estanco,2,2 - Defecto crónico,0 - Sano
+52,1 - Hombre,1 - Angina atípica,128,205,1 - Sí,1 - anormalidad de onda ST-T,184,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+44,1 - Hombre,0 - Angina típica,110,197,0 - No,0 - Normal,177,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+45,1 - Hombre,0 - Angina típica,142,309,0 - No,0 - Normal,147,1 - Sí,0.0,1 - Estanco,3,3 - Reversible,0 - Sano
+57,1 - Hombre,0 - Angina típica,140,192,0 - No,1 - anormalidad de onda ST-T,148,0 - No,0.4,1 - Estanco,0,1 - Normal,1 - Enfermo
+39,1 - Hombre,0 - Angina típica,118,219,0 - No,1 - anormalidad de onda ST-T,140,0 - No,1.2,1 - Estanco,0,3 - Reversible,0 - Sano
+67,0 - Mujer,0 - Angina típica,106,223,0 - No,1 - anormalidad de onda ST-T,142,0 - No,0.3,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+64,1 - Hombre,0 - Angina típica,128,263,0 - No,1 - anormalidad de onda ST-T,105,1 - Sí,0.2,1 - Estanco,1,3 - Reversible,1 - Enfermo
+59,1 - Hombre,0 - Angina típica,135,234,0 - No,1 - anormalidad de onda ST-T,161,0 - No,0.5,1 - Estanco,0,3 - Reversible,1 - Enfermo
+62,1 - Hombre,2 - Dolor torácico no anginoso,130,231,0 - No,1 - anormalidad de onda ST-T,146,0 - No,1.8,1 - Estanco,3,3 - Reversible,1 - Enfermo
+55,0 - Mujer,0 - Angina típica,180,327,0 - No,2 - hipertrofia ventricular probable o definitiva,117,1 - Sí,3.4,1 - Estanco,0,2 - Defecto crónico,0 - Sano
+57,1 - Hombre,1 - Angina atípica,154,232,0 - No,0 - Normal,164,0 - No,0.0,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+60,1 - Hombre,0 - Angina típica,140,293,0 - No,0 - Normal,170,0 - No,1.2,1 - Estanco,2,3 - Reversible,0 - Sano
+71,0 - Mujer,1 - Angina atípica,160,302,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.4,2 - Descendente,2,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,1 - Angina atípica,120,236,0 - No,1 - anormalidad de onda ST-T,178,0 - No,0.8,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,0 - Angina típica,117,230,1 - Sí,1 - anormalidad de onda ST-T,160,1 - Sí,1.4,2 - Descendente,2,3 - Reversible,0 - Sano
+50,0 - Mujer,0 - Angina típica,110,254,0 - No,0 - Normal,159,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+43,1 - Hombre,0 - Angina típica,132,247,1 - Sí,0 - Normal,143,1 - Sí,0.1,1 - Estanco,4,3 - Reversible,0 - Sano
+59,1 - Hombre,0 - Angina típica,110,239,0 - No,0 - Normal,142,1 - Sí,1.2,1 - Estanco,1,3 - Reversible,0 - Sano
+44,1 - Hombre,1 - Angina atípica,120,263,0 - No,1 - anormalidad de onda ST-T,173,0 - No,0.0,2 - Descendente,0,3 - Reversible,1 - Enfermo
+56,0 - Mujer,0 - Angina típica,134,409,0 - No,0 - Normal,150,1 - Sí,1.9,1 - Estanco,2,3 - Reversible,0 - Sano
+54,1 - Hombre,0 - Angina típica,120,188,0 - No,1 - anormalidad de onda ST-T,113,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano
+42,1 - Hombre,0 - Angina típica,136,315,0 - No,1 - anormalidad de onda ST-T,125,1 - Sí,1.8,1 - Estanco,0,1 - Normal,0 - Sano
+67,1 - Hombre,0 - Angina típica,125,254,1 - Sí,1 - anormalidad de onda ST-T,163,0 - No,0.2,1 - Estanco,2,3 - Reversible,0 - Sano
+64,1 - Hombre,0 - Angina típica,145,212,0 - No,0 - Normal,132,0 - No,2.0,1 - Estanco,2,1 - Normal,0 - Sano
+42,1 - Hombre,0 - Angina típica,140,226,0 - No,1 - anormalidad de onda ST-T,178,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+66,1 - Hombre,0 - Angina típica,112,212,0 - No,0 - Normal,132,1 - Sí,0.1,2 - Descendente,1,2 - Defecto crónico,0 - Sano
+52,1 - Hombre,0 - Angina típica,108,233,1 - Sí,1 - anormalidad de onda ST-T,147,0 - No,0.1,2 - Descendente,3,3 - Reversible,1 - Enfermo
+51,0 - Mujer,2 - Dolor torácico no anginoso,140,308,0 - No,0 - Normal,142,0 - No,1.5,2 - Descendente,1,2 - Defecto crónico,1 - Enfermo
+55,0 - Mujer,0 - Angina típica,128,205,0 - No,2 - hipertrofia ventricular probable o definitiva,130,1 - Sí,2.0,1 - Estanco,1,3 - Reversible,0 - Sano
+58,1 - Hombre,2 - Dolor torácico no anginoso,140,211,1 - Sí,0 - Normal,165,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+56,1 - Hombre,3 - Asintomático,120,193,0 - No,0 - Normal,162,0 - No,1.9,1 - Estanco,0,3 - Reversible,1 - Enfermo
+42,1 - Hombre,1 - Angina atípica,120,295,0 - No,1 - anormalidad de onda ST-T,162,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+40,1 - Hombre,0 - Angina típica,152,223,0 - No,1 - anormalidad de onda ST-T,181,0 - No,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+51,1 - Hombre,0 - Angina típica,140,299,0 - No,1 - anormalidad de onda ST-T,173,1 - Sí,1.6,2 - Descendente,0,3 - Reversible,0 - Sano
+45,1 - Hombre,1 - Angina atípica,128,308,0 - No,0 - Normal,170,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+48,1 - Hombre,1 - Angina atípica,110,229,0 - No,1 - anormalidad de onda ST-T,168,0 - No,1.0,0 - Ascendente,0,3 - Reversible,0 - Sano
+58,1 - Hombre,0 - Angina típica,114,318,0 - No,2 - hipertrofia ventricular probable o definitiva,140,0 - No,4.4,0 - Ascendente,3,1 - Normal,0 - Sano
+44,0 - Mujer,2 - Dolor torácico no anginoso,108,141,0 - No,1 - anormalidad de onda ST-T,175,0 - No,0.6,1 - Estanco,0,2 - Defecto crónico,1 - Enfermo
+58,1 - Hombre,0 - Angina típica,128,216,0 - No,0 - Normal,131,1 - Sí,2.2,1 - Estanco,3,3 - Reversible,0 - Sano
+65,1 - Hombre,3 - Asintomático,138,282,1 - Sí,0 - Normal,174,0 - No,1.4,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+53,1 - Hombre,0 - Angina típica,123,282,0 - No,1 - anormalidad de onda ST-T,95,1 - Sí,2.0,1 - Estanco,2,3 - Reversible,0 - Sano
+41,1 - Hombre,0 - Angina típica,110,172,0 - No,0 - Normal,158,0 - No,0.0,2 - Descendente,0,3 - Reversible,0 - Sano
+47,1 - Hombre,0 - Angina típica,112,204,0 - No,1 - anormalidad de onda ST-T,143,0 - No,0.1,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+59,1 - Hombre,1 - Angina atípica,140,221,0 - No,1 - anormalidad de onda ST-T,164,1 - Sí,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+60,1 - Hombre,0 - Angina típica,125,258,0 - No,0 - Normal,141,1 - Sí,2.8,1 - Estanco,1,3 - Reversible,0 - Sano
+47,1 - Hombre,0 - Angina típica,110,275,0 - No,0 - Normal,118,1 - Sí,1.0,1 - Estanco,1,2 - Defecto crónico,0 - Sano
+50,0 - Mujer,0 - Angina típica,110,254,0 - No,0 - Normal,159,0 - No,0.0,2 - Descendente,0,2 - Defecto crónico,1 - Enfermo
+54,1 - Hombre,0 - Angina típica,120,188,0 - No,1 - anormalidad de onda ST-T,113,0 - No,1.4,1 - Estanco,1,3 - Reversible,0 - Sano

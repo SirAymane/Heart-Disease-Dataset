@@ -1,0 +1,40 @@
+# Plots
+
+http://seaborn.pydata.org/examples/logistic_regression.html (relació sexe, edat, malaltia cor)
+
+http://seaborn.pydata.org/examples/multiple_regression.html (colesterol, sucre, sexe)
+
+https://seaborn.pydata.org/examples/grouped_barplot.html (recompte per sexe i escala de dolor)
+
+http://seaborn.pydata.org/examples/scatterplot_categorical.html (6)
+
+
+# Preguntes!
+
+Marc (1) Es pot modelar la malaltia de cor. --> Curva ROC
+Marc (4) Matriu de correlació entre les variables
+Marc (3) Densitats
+
+
+Mel jointplot nivell de colesterol i pressió sanguínia en repòs
+Mel Scatter entre malalt/no malalt (color), segons el màxim del heart rate (X) y el sexe (Y)
+Mel Violin plot --> OldPeak (Y), Exercice induced angina (X), disease/no disease (color)
+
+Siddique Countplot --> Recompte (Y) d'homes i dones (color), segons l'escala de dolor (X)
+Siddique Boxplot 
+Siddique 
+
+(2) Existeix relació entre malaltia cor (Y) --> sexe, edat (vegis plots). --> Scatter
+
+(3) Com es distribueix el serum cholestoral in mg/dl, fasting blood sugar > 120 mg/dl
+ i el sexe. --> Scatter
+
+Siddique 
+
+Aymane (1): DISPLOT BAR ->  AGE [X] + Exercice induced exang [Y], segons afectació
+
+Aymane (2): RELPLOT SCATTER ->  Maxim de heart rate [X] + ST depression [Y] según afectación
+
+Aymane (3): JOINTPLOT -> Nivel de dolor[X] según nivel de colesterol [Y]
+
+
